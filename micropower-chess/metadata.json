@@ -1,61 +1,13 @@
 {
   "nombre": "MicroPower Chess",
-  "nombre_original": "MicroPower Chess (Europe)",
+  "nombre_original": "MicroPower Chess",
   "sistema": "Acorn Archimedes",
   "year": null,
   "genres": [
     "Board Games"
   ],
   "publisher": "MicroPower",
-  "developer": "MicroPower",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "micropower-chess",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "MicroPower Chess para Acorn Archimedes ofrecía una experiencia de ajedrez digital notablemente sólida para su época. Los jugadores se enfrentaban a una IA desafiante con varios niveles de dificultad, apta para novatos y expertos. La interfaz gráfica, aunque sencilla, era clara y funcional, representando el tablero y las piezas con fidelidad. La comodidad de jugar en solitario contra un oponente computarizado siempre disponible y con una estrategia predefinida lo hizo un título accesible y atractivo.\n\nEste juego fue un hito para la plataforma Acorn Archimedes y un avance significativo en el software de ajedrez para computadoras personales. Su presencia en hogares y escuelas popularizó el ajedrez digital, demostrando la capacidad del Archimedes para manejar algoritmos complejos. MicroPower Chess es recordado con cariño como una herramienta educativa y un testimonio de la era dorada de la informática doméstica británica, dejando una huella imborrable en la memoria de los entusiastas de la plataforma.",
+  "aiHints": "¿Sabías que...?\n- MicroPower Chess no tiene códigos de trucos famosos, ¡pero su verdadero 'secreto' es su excepcional inteligencia artificial!\n- Fue uno de los programas de ajedrez más fuertes de su época, optimizado para el procesador ARM del Acorn Archimedes, calculando movimientos con asombrosa velocidad y profundidad.\n- Ofrecía múltiples niveles de dificultad, adaptándose desde principiantes hasta maestros. ¡Un rival digno que siempre te desafiará a mejorar tu juego!",
+  "tiene_review": false
 }

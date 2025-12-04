@@ -1,61 +1,13 @@
 {
   "nombre": "Oddball",
-  "nombre_original": "Oddball (Europe)",
+  "nombre_original": "Oddball",
   "sistema": "Acorn Archimedes",
-  "year": 1995,
+  "year": "1995",
   "genres": [
     "Action"
   ],
   "publisher": "Digital Psychosis",
-  "developer": "Digital Psychosis",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "oddball",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Oddball, una joya lanzada en 1995 para la venerable Acorn Archimedes, nos sumerge en un universo de puzles de acción que rinde homenaje a clásicos como Arkanoid, pero con un giro distintivo. Los jugadores manipulan una paleta para rebotar una esfera y destruir una miríada de bloques flotantes. Estos 'oddballs' no son meros obstáculos; poseen propiedades únicas: algunos requieren múltiples impactos, otros explotan o incluso cobran vida, añadiendo una capa estratégica y frenética a cada nivel.Este título no solo fue un escaparate técnico para la capacidad gráfica del Archimedes, con sus vibrantes colores y animaciones fluidas, sino que también representa un recuerdo entrañable de la escena de desarrollo británica. Oddball, con su dificultad ajustada y diseño ingenioso, se ganó un lugar especial en el corazón de los entusiastas de Acorn, solidificando su legado como un ejemplo brillante de innovación en plataformas de nicho.",
+  "aiHints": "¿Sabías que Oddball fue uno de los juegos que mejor aprovechó la paleta de colores y la resolución del Acorn Archimedes? Los desarrolladores se esforzaron por crear efectos visuales sorprendentes para la época. - Un truco para los niveles más difíciles: concéntrate en los bloques que cambian de comportamiento, a menudo son la clave para despejar secciones enteras del mapa con una sola reacción en cadena. ¡La paciencia y la observación son tus mejores aliados!",
+  "tiene_review": false
 }

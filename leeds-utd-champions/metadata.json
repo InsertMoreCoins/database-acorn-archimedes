@@ -1,61 +1,13 @@
 {
   "nombre": "Leeds Utd - Champions!",
-  "nombre_original": "Leeds Utd - Champions! (Europe)",
+  "nombre_original": "Leeds Utd - Champions!",
   "sistema": "Acorn Archimedes",
-  "year": 1993,
+  "year": "1993",
   "genres": [
     "Sports/Soccer"
   ],
   "publisher": "Strategy Software Designs",
-  "developer": "Strategy Software Designs",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "leeds-utd-champions",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "El clásico \"Leeds Utd - Champions!\" para Acorn Archimedes nos transporta a la emocionante temporada 1991-92, permitiéndonos revivir la gloria del Leeds United. Como mánagers, nuestra tarea era la de un director técnico y financiero: desde la selección de la alineación y la estrategia en el campo hasta la gestión de las finanzas del club y la negociación de fichajes. Era un simulador de gestión futbolística que, para su época, ofrecía una profundidad considerable, sumergiendo al jugador en las complejidades de llevar a un equipo a la cima. Cada decisión, desde la táctica defensiva hasta la inversión en nuevos talentos, era crucial para el éxito a largo plazo del equipo.Esta entrega de 1993 es un fascinante testimonio de cómo se concebían los juegos de gestión deportiva antes de la era moderna. Si bien sus gráficos eran modestos, su encanto residía en la simulación detallada y la inmersión que ofrecía a los aficionados del fútbol y, en particular, a los seguidores del Leeds United. Representa un hito en la historia de los simuladores de gestión y un recordatorio nostálgico de la pasión por el fútbol en los sistemas domésticos de principios de los 90, cimentando una base para futuros títulos del género.",
+  "aiHints": "¿Sabías que? Para dominar \"Leeds Utd - Champions!\", la clave residía en una gestión financiera impecable y en la astucia para descubrir jóvenes talentos. - Muchos jugadores experimentados aprendieron que una inversión temprana en ojeadores de élite podía asegurar una fuente constante de futuras estrellas a bajo coste, una táctica a menudo subestimada por los principiantes. - ¡Un pro-tip esencial es vigilar de cerca a los jugadores cuyos contratos están a punto de expirar para ficharlos sin coste de traspaso!",
+  "tiene_review": false
 }

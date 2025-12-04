@@ -1,61 +1,13 @@
 {
   "nombre": "Castle Black Heart",
-  "nombre_original": "Castle Black Heart (Europe)",
+  "nombre_original": "Castle Black Heart",
   "sistema": "Acorn Archimedes",
-  "year": 1991,
+  "year": "1991",
   "genres": [
     "Adventure"
   ],
   "publisher": "Watson, James",
-  "developer": "Watson, James",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "castle-black-heart",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Castle Black Heart, una joya de 1991 para el Acorn Archimedes, nos sumerge en un mundo de plataformas y aventura que desafiaba a los jugadores de su época. Controlando a un valiente caballero, la misión era explorar los intrincados pasillos y mazmorras del castillo titular, enfrentándose a una hueste de criaturas y trampas. Su jugabilidad, caracterizada por un desplazamiento lateral preciso y un diseño de niveles laberíntico, exigía paciencia y habilidad, ofreciendo una experiencia gratificante a quienes dominaban sus mecánicas de salto y combate.Este título no solo fue un escaparate técnico para la plataforma Archimedes, con sus gráficos detallados y animaciones fluidas, sino que también cimentó su lugar como un clásico de culto dentro de la comunidad de Acorn. Representa una cápsula del tiempo de la creatividad y el ingenio de la programación británica de principios de los 90, un testimonio de la era dorada de los ordenadores domésticos europeos que buscaban ofrecer experiencias únicas y desafiantes más allá de las consolas dominantes.",
+  "aiHints": "¿Sabías que la dificultad de Castle Black Heart era legendaria? ¡Cada vida contaba! Aunque no hay un código Konami, los jugadores astutos descubrieron que dominar el salto de precisión era clave para eludir trampas mortales y enemigos. Además, presta atención a las paredes: algunos bloques son ilusorios y esconden pasajes secretos o valiosos tesoros que pueden cambiar el rumbo de tu aventura. ¡Explora cada rincón!",
+  "tiene_review": false
 }

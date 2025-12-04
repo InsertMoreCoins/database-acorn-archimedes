@@ -1,61 +1,13 @@
 {
   "nombre": "Blitz",
-  "nombre_original": "Blitz (Europe)",
+  "nombre_original": "Blitz",
   "sistema": "Acorn Archimedes",
-  "year": 1991,
+  "year": "1991",
   "genres": [
     "Action"
   ],
   "publisher": "Arxe Systems",
-  "developer": "Arxe Systems",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "blitz",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Blitz, un encantador título para Acorn Archimedes de 1991, nos sumerge en una propuesta de juego adictiva y engañosamente sencilla. Al volante de un pequeño coche, nuestra misión es recorrer cada segmento de carretera de la ciudad, \"pintándolos\" al pasar sobre ellos. La estrategia reside en la navegación eficiente y la evasión de los vehículos enemigos que incansablemente intentan frustrar nuestro progreso, a menudo requiriendo saltos precisos o el uso oportuno de potenciadores en un ciclo de juego repetitivo pero gratificante. Este título es un testimonio fascinante de la era dorada de los ordenadores domésticos y, en particular, del Acorn Archimedes. Aunque quizás no alcanzó la fama de otros gigantes, 'Blitz' demostró la capacidad de la plataforma para ofrecer experiencias arcade pulidas y entretenidas. Su legado reside en ser una pieza representativa de la biblioteca de juegos del Archimedes, recordándonos una época donde la innovación técnica y la jugabilidad directa eran la esencia de la diversión digital.",
+  "aiHints": "¿Sabías que 'Blitz' para Acorn Archimedes, lanzado en 1991, es una notable adaptación y homenaje al clásico arcade 'City Connection' de Jaleco? Su simplicidad esconde una profundidad estratégica: para alcanzar puntuaciones estratosféricas, es crucial dominar la técnica de pintar todas las carreteras de un nivel sin repetir camino y, sobre todo, encadenar zonas de color para obtener multiplicadores. ¡A menudo, la clave no es la velocidad, sino la precisión y la planificación! Un verdadero desafío para los estrategas.",
+  "tiene_review": false
 }

@@ -1,59 +1,13 @@
 {
   "nombre": "Impression Jr",
-  "nombre_original": "Impression Jr (Europe)",
+  "nombre_original": "Impression Jr",
   "sistema": "Acorn Archimedes",
   "year": null,
-  "genres": [],
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Computer Concepts",
-  "developer": "Computer Concepts",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "impression-jr",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Impression Jr, una joya del catálogo de Acorn Archimedes, nos sumerge en un encantador desafío de lógica y estrategia. Los jugadores asumen el papel de un planificador maestro, colocando estratégicamente diversas piezas de terreno, como caminos, puentes y flechas direccionales, para guiar a un pequeño personaje, el Imp, a través de intrincados laberintos. La mecánica es simple pero profunda: no controlamos directamente al Imp, sino que manipulamos su entorno para asegurar su paso seguro y eficiente hacia la salida, evitando peligros y superando obstáculos con ingenio limitado.Este título representa un testimonio de la creatividad en la era de los ordenadores de 32 bits de Acorn. Si bien Jr podría sugerir una versión simplificada, el juego ofrecía un reto considerable y una interfaz pulcra que aprovechaba las capacidades gráficas del Archimedes. Su legado reside en ser un ejemplo temprano y notable de los juegos de puzles de control indirecto, contribuyendo al rico tapiz de géneros que florecieron en plataformas menos convencionales, y evocando una dulce nostalgia en aquellos que tuvieron la fortuna de explorar sus niveles.",
+  "aiHints": "¿Sabías que...? - Aunque Impression Jr no es famoso por códigos de trucos al estilo Konami, la clave para dominarlo reside en la planificación meticulosa. Cada pieza cuenta. - Un consejo profesional: a menudo, la solución más obvia no es la más eficiente. Experimenta con diferentes rutas y usos de tus piezas limitadas. - Algunos niveles esconden \\\"pasajes secretos\\\" o rutas alternativas que pueden simplificar enormemente el desafío si sabes cómo encontrarlas y aprovecharlas. ¡Mantén los ojos abiertos!",
+  "tiene_review": false
 }

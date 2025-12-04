@@ -1,61 +1,13 @@
 {
   "nombre": "Jet Fighter",
-  "nombre_original": "Jet Fighter (Europe)",
+  "nombre_original": "Jet Fighter",
   "sistema": "Acorn Archimedes",
-  "year": 1988,
+  "year": "1988",
   "genres": [
     "Shooter"
   ],
   "publisher": "Minerva Software",
-  "developer": "Minerva Software",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "jet-fighter",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Jet Fighter para Acorn Archimedes, lanzado en 1988, nos transporta a una era pionera de los simuladores de vuelo de combate. Este título desafiaba a los jugadores a dominar aviones supersónicos desde una perspectiva en primera persona, un logro técnico considerable para su tiempo. La jugabilidad giraba en torno a misiones estratégicas de interceptación y ataque, gestionando combustible y munición. La precisión del joystick era crucial para maniobras evasivas y fijar objetivos, ofreciendo una experiencia inmersiva y demandante. Como uno de los primeros títulos en explotar las capacidades del potente Acorn Archimedes, \"Jet Fighter\" demostró el potencial gráfico y de procesamiento de la máquina con sus gráficos vectoriales y fluidez. Sentó las bases para futuros simuladores de combate, ofreciendo una simulación profunda y realista en una época de juegos arcade. Es una pieza fundamental en la evolución de los juegos de aviación, recordada con cariño por quienes surcaron los cielos virtuales en la cúspide tecnológica de los 80.",
+  "aiHints": "¿Sabías que...? - Jet Fighter fue pionero al explotar el procesador ARM del Acorn Archimedes, ofreciendo gráficos vectoriales y física de vuelo sorprendentemente avanzadas para 1988. ¡Un hito técnico! - Aunque no hay un \"código Konami\" famoso, los pilotos veteranos sabían que dominar aterrizajes perfectos era crucial. Practicar con los flaps y el tren de aterrizaje en la pista de entrenamiento era clave para el éxito en las misiones más difíciles. - Se rumoreaba un modo de depuración oculto, activable con una secuencia de teclas no documentada, ¡un verdadero trofeo para los exploradores!",
+  "tiene_review": false
 }

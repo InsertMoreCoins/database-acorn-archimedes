@@ -1,61 +1,13 @@
 {
   "nombre": "White Magic",
-  "nombre_original": "White Magic (Europe)",
+  "nombre_original": "White Magic",
   "sistema": "Acorn Archimedes",
-  "year": 1989,
+  "year": "1989",
   "genres": [
     "Action"
   ],
   "publisher": "4th Dimension",
-  "developer": "4th Dimension",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "white-magic",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "White Magic, lanzado en 1989 para el Acorn Archimedes, es una joya de puzle que desafía al jugador a controlar un mago. Desde la base de la pantalla, el hechicero debe manipular bloques que caen incesantemente. A diferencia de otros títulos de la época, aquí se utilizan hechizos –de fuego, hielo o relámpago– para destruir, congelar o alterar los bloques, buscando despejar líneas y evitar que la pila alcance la cima. Es una estratégica combinación de velocidad, planificación y el uso astuto de la magia.Este juego no solo destacaba por su mecánica innovadora, sino también por ser un brillante escaparate de las capacidades del Acorn Archimedes, mostrando gráficos coloridos y una jugabilidad fluida que aprovechaba su arquitectura ARM. White Magic se erige hoy como un testimonio de la creatividad de los desarrolladores de la época y un precursor de muchos conceptos en el género. Su encanto reside en su elegancia y la profundidad estratégica que ofrecía, evocando una era dorada de la experimentación lúdica.",
+  "aiHints": "¿Sabías que...?- En White Magic, la clave para dominar los niveles avanzados reside en la gestión eficiente de los hechizos. No solo se trata de destruir bloques, sino de entender cómo el hechizo de hielo puede pausar el avance de la pila, dándote valiosos segundos para planificar tu siguiente movimiento.- Aunque no hay un 'código Konami' famoso, los jugadores expertos descubrieron que la combinación estratégica de hechizos de fuego para limpiar grandes áreas y relámpago para reorganizar rápidamente es fundamental. ¡La paciencia y la observación son tu mejor truco!",
+  "tiene_review": false
 }

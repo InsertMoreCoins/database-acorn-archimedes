@@ -1,0 +1,13 @@
+{
+  "nombre": "Startwrite",
+  "nombre_original": "Startwrite",
+  "sistema": "Acorn Archimedes",
+  "year": "1992",
+  "genres": [
+    "Unknown"
+  ],
+  "publisher": "Icon Technology",
+  "aiDescription": "Startwrite, lanzado en 1992 para el Acorn Archimedes, no era un videojuego en el sentido tradicional, sino una herramienta fundamental que transformó la creación de texto. Su 'bucle de juego' invitaba a los usuarios a sumergirse en la escritura, ofreciendo la satisfacción de componer, editar y dar formato a documentos. Las 'mecánicas' eran las de un procesador de texto intuitivo para su época, permitiendo la elección de fuentes, la manipulación de párrafos y la preparación para la impresión, convirtiendo cada proyecto en una obra personal y creativa.\n\nEste software fue un pilar en la era del Archimedes, especialmente en entornos educativos y domésticos. Representa un hito en la democratización de la creación digital, capacitando a una generación para interactuar con la palabra escrita de una manera novedosa. Su legado no reside en puntuaciones altas o mundos virtuales, sino en las innumerables historias, ensayos y cartas que ayudó a dar vida, cimentando su lugar como una pieza esencial en la historia del software de productividad.",
+  "aiHints": "¿Sabías que Startwrite se destacó por su excelente integración con el sistema operativo RISC OS del Acorn Archimedes? Esto permitía una gestión de archivos fluida y la capacidad de interactuar con otras aplicaciones de la suite Acorn. Un 'pro-tip' para los usuarios avanzados era dominar los atajos de teclado para el formato rápido, lo que aceleraba drásticamente la creación de documentos extensos. Aunque carecía de trucos de juego, su verdadera magia residía en empoderar a los usuarios para crear sin límites, una característica revolucionaria para su tiempo.",
+  "tiene_review": false
+}

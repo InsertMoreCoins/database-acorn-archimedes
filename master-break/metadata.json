@@ -1,59 +1,13 @@
 {
   "nombre": "Master Break",
-  "nombre_original": "Master Break (Europe)",
+  "nombre_original": "Master Break",
   "sistema": "Acorn Archimedes",
   "year": null,
-  "genres": [],
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Superior Software",
-  "developer": "Superior Software",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "master-break",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Master Break, una joya para el Acorn Archimedes, nos sumerge en la sofisticación del género \"breakout\". Los jugadores controlaban una raqueta, haciendo rebotar una bola para pulverizar intrincadas formaciones de ladrillos. Lo que lo elevaba eran sus ingeniosos power-ups, desde múltiples bolas hasta láseres y raquetas extendidas, inyectando estrategia y frenesí. La inclusión de batallas contra jefes finales, una rareza entonces, transformaba la experiencia más allá del simple acto de romper bloques, ofreciendo un desafío dinámico y memorable.Este título no solo fue un hito en el catálogo de Acorn, sino que también exhibió el potencial gráfico y sonoro del Archimedes, consolidándose como uno de sus juegos más queridos. Su legado radica en haber ofrecido una alternativa pulida y distintiva a clásicos como Arkanoid, estableciendo un estándar de calidad para los clones de Breakout en la plataforma. Hoy, lo recordamos con cariño como un pilar de la diversión digital de su época, un testimonio de la creatividad en los ordenadores domésticos.",
+  "aiHints": "¿Sabías que Master Break es conocido por su notable dificultad en los niveles avanzados? Aquí algunos secretos:- ¡Cuidado con el power-up de \"bola rápida\"! Aunque acelera la acción, puede ser un arma de doble filo, haciendo el juego mucho más desafiante.- Existe un truco para saltar niveles: durante el juego, pulsa CTRL+SHIFT y luego presiona la tecla 'N'. ¡Pero úsalo con moderación para no perderte la diversión!- Presta atención a los patrones de los jefes; cada uno tiene una debilidad específica que puedes explotar para una victoria más rápida.",
+  "tiene_review": false
 }

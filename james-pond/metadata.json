@@ -1,61 +1,13 @@
 {
   "nombre": "James Pond",
-  "nombre_original": "James Pond (Europe)",
+  "nombre_original": "James Pond",
   "sistema": "Acorn Archimedes",
-  "year": 1990,
+  "year": "1990",
   "genres": [
     "Platformer"
   ],
   "publisher": "Vectordean",
-  "developer": "Vectordean",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "james-pond",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "\"James Pond: Underwater Agent\", lanzado en 1990 para el Acorn Archimedes, nos sumerge en una aventura plataformera vibrante y llena de encanto. Encarnando al pez agente secreto James Pond, los jugadores deben navegar por niveles complejos, recolectar objetos y enfrentarse a villanos extravagantes. Su mecánica distintiva, la capacidad de estirar el cuerpo para alcanzar plataformas elevadas o evadir peligros, añadió una capa estratégica a la exploración, convirtiéndolo en un título memorable por su ingenio y jugabilidad adictiva. Este juego no solo fue una joya del catálogo del Acorn Archimedes, mostrando las capacidades gráficas y sonoras de la máquina, sino que también estableció un icono de las plataformas de principios de los 90. Con su humor, sus parodias de las películas de James Bond y su carismático protagonista, James Pond trascendió su plataforma original, siendo portado a numerosos sistemas y generando secuelas. Es un testimonio de una era donde la creatividad y la diversión eran el motor principal de la industria.",
+  "aiHints": "¿Sabías que...? - Antes de convertirse en el famoso \"James Pond\", el protagonista fue concebido originalmente como \"Pontius the Prawn\". ¡Un cambio de nombre que sin duda le dio más gancho! - El juego está repleto de ingeniosas parodias de la cultura popular y las películas de James Bond, desde los nombres de los villanos hasta los gadgets. - Para los jugadores más astutos, explorar cada rincón de los niveles a menudo recompensa con vidas extra o potenciadores ocultos que facilitan la misión de salvar el mundo.",
+  "tiene_review": false
 }

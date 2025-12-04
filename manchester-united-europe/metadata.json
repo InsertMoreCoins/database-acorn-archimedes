@@ -1,61 +1,13 @@
 {
   "nombre": "Manchester United Europe",
-  "nombre_original": "Manchester United Europe (Europe)",
+  "nombre_original": "Manchester United Europe",
   "sistema": "Acorn Archimedes",
-  "year": 1991,
+  "year": "1991",
   "genres": [
     "Sports/Soccer"
   ],
   "publisher": "Krisalis Software",
-  "developer": "Krisalis Software",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "manchester-united-europe",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Retrocedamos a 1991 y admiremos 'Manchester United Europe' para el Acorn Archimedes, una joya para los aficionados a la gestión futbolística. Este título sumergía al jugador en el exigente rol de mánager del Manchester United, donde cada decisión —desde la selección de la plantilla y las tácticas hasta las transferencias y la gestión financiera— era crucial para el éxito en las prestigiosas competiciones europeas. La profundidad estratégica, más que la acción directa, era el corazón de su bucle de juego, desafiando la astucia del estratega.\n\nEn su época, 'Manchester United Europe' representó un paso significativo para el género de simulación deportiva, anticipándose a la explosión de popularidad de los juegos de mánager de fútbol. Aunque desarrollado para una plataforma más selecta como el Acorn Archimedes, su ambición y detalle sentaron bases importantes, ofreciendo una experiencia inmersiva. Es una pieza clave en la historia de los videojuegos de gestión, demostrando la visión de los desarrolladores de principios de los 90.",
+  "aiHints": "¿Sabías que 'Manchester United Europe' fue uno de los pocos juegos en el Acorn Archimedes que aprovechó al máximo su capacidad de procesamiento para simular la complejidad de un club de fútbol? Para dominarlo, la clave no estaba en los trucos, sino en una gestión financiera impecable y en la astuta identificación de jóvenes talentos en el mercado de fichajes. ¡Una buena cantera era tu mejor arma secreta para la gloria europea!",
+  "tiene_review": false
 }

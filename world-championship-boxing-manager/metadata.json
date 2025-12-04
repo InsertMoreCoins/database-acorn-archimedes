@@ -1,59 +1,13 @@
 {
   "nombre": "World Championship Boxing Manager",
-  "nombre_original": "World Championship Boxing Manager (Europe)",
+  "nombre_original": "World Championship Boxing Manager",
   "sistema": "Acorn Archimedes",
-  "year": 1991,
-  "genres": [],
+  "year": "1991",
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Goliath Games",
-  "developer": "Goliath Games",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "world-championship-boxing-manager",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "World Championship Boxing Manager, lanzado en 1991 para el Acorn Archimedes, sumerge al jugador en la gestión boxística. Aquí, diriges una cuadra de pugilistas, tomando decisiones cruciales sobre su entrenamiento, nutrición y régimen de combate. La clave residía en equilibrar el desarrollo de habilidades, la resistencia y la salud, eligiendo estratégicamente oponentes para ascender. Su interfaz, aunque modesta, ofrecía una sorprendente profundidad estratégica para la época.Este título representa un hito temprano en los simuladores de gestión deportiva en una plataforma distintiva como el Archimedes. World Championship Boxing Manager sentó las bases de construir una leyenda desde cero, capturando la esencia de la gestión con recursos limitados. Su legado es la nostalgia de aquellos que recuerdan los desafíos de moldear a un campeón en los albores de los 90.",
+  "aiHints": "¿Sabías que un rumor persistente entre los jugadores de Archimedes sugería que, si lograbas una racha de victorias perfecta con un solo boxeador, sus estadísticas podían superar el límite máximo, convirtiéndolo en una máquina de boxeo imparable? Aunque nunca fue oficialmente confirmado, muchos pasaron horas intentando desbloquear a este campeón legendario. ¡Un verdadero desafío para los más dedicados!",
+  "tiene_review": false
 }

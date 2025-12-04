@@ -1,61 +1,13 @@
 {
   "nombre": "All In Boxing",
-  "nombre_original": "All In Boxing (Europe)",
+  "nombre_original": "All In Boxing",
   "sistema": "Acorn Archimedes",
-  "year": 1994,
+  "year": "1994",
   "genres": [
     "Sports/Boxing"
   ],
   "publisher": "Alien Images",
-  "developer": "Alien Images",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "all-in-boxing",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "All In Boxing, lanzado en 1994 para el Acorn Archimedes, nos transporta a una era donde el boxeo virtual brillaba con una fluidez inesperada para su tiempo. Este título ofrecía una experiencia de combate sorprendentemente pulida, destacando por sus animaciones de boxeadores detalladas y movimientos realistas, algo notable en la plataforma. Los jugadores debían dominar una variedad de golpes, bloqueos y fintas, exigiendo estrategia y reflejos para ascender en el escalafón. La mecánica de combate, aunque sencilla de aprender, ofrecía una profundidad gratificante, haciendo que cada victoria se sintiera merecida.En el contexto del Acorn Archimedes, All In Boxing no era solo un juego de boxeo más; era una demostración del potencial gráfico y técnico de la máquina. Se ganó un lugar especial en la memoria de los aficionados, siendo recordado como uno de los títulos deportivos más logrados de la plataforma. Su legado reside en haber ofrecido una simulación de boxeo convincente y entretenida, consolidándose como un clásico que, a pesar del paso del tiempo, evoca una cálida nostalgia por la ingeniosidad de la era de los 16 bits.",
+  "aiHints": "¡Sabías que...- All In Boxing fue elogiado por su uso eficiente del hardware del Acorn Archimedes, permitiendo animaciones fluidas a 25 fotogramas por segundo, algo impresionante para la época.- Un consejo de campeón: no subestimes la importancia de la defensa. Mantener la guardia alta y buscar el momento preciso para el contraataque es clave, especialmente contra los oponentes más duros.- Se rumorea que un desarrollador ocultó su nombre en los créditos finales, visible solo si completabas el juego en la dificultad más alta sin perder un solo asalto. ¡Un verdadero desafío para los puristas!",
+  "tiene_review": false
 }

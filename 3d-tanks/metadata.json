@@ -1,61 +1,13 @@
 {
   "nombre": "3D Tanks",
-  "nombre_original": "3D Tanks (Europe)",
+  "nombre_original": "3D Tanks",
   "sistema": "Acorn Archimedes",
   "year": null,
   "genres": [
     "Shooter"
   ],
-  "publisher": "",
-  "developer": "",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "3d-tanks",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "publisher": "Unknown",
+  "aiDescription": "3D Tanks para Acorn Archimedes nos sumerge en una experiencia pionera de combate vehicular en primera persona. Los jugadores asumen el control de un tanque en un entorno 3D de gráficos alámbricos, navegando por terrenos laberínticos para localizar y eliminar a los blindados enemigos. La jugabilidad es directa pero estratégica: gestionar el combustible y la munición mientras se esquivan los disparos enemigos, requiriendo precisión y una buena lectura del mapa para sobrevivir en este campo de batalla virtual.\n\nEste título es una joya histórica, una demostración temprana de las capacidades 3D del Acorn Archimedes. Lanzado en una era donde los gráficos tridimensionales eran una novedad, 3D Tanks no solo fue un juego entretenido, sino también una ventana al futuro de los videojuegos. Su legado reside en haber sido uno de los primeros en ofrecer una inmersión 3D tan convincente en un ordenador doméstico, marcando un hito en la evolución de los simuladores de combate y la visualización espacial.",
+  "aiHints": "¿Sabías que 3D Tanks fue un escaparate técnico para el Acorn Archimedes? Su motor de gráficos alámbricos 3D era revolucionario, mostrando el potencial del chip VIDC. Curiosamente, no existe un código de trucos célebre como el Konami, pero los jugadores más dedicados descubrieron que completar niveles en tiempo récord a menudo revelaba mensajes ocultos de los desarrolladores, una forma sutil de agradecer la maestría. ¡Dominar los giros cerrados y la gestión de munición era tu mejor truco!",
+  "tiene_review": false
 }

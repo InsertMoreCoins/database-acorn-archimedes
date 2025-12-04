@@ -1,61 +1,13 @@
 {
   "nombre": "Apocalypse",
-  "nombre_original": "Apocalypse (Europe) (Disk 2)",
+  "nombre_original": "Apocalypse",
   "sistema": "Acorn Archimedes",
-  "year": 1990,
+  "year": "1990",
   "genres": [
     "Shooter"
   ],
   "publisher": "Key, Gordon J.",
-  "developer": "Key, Gordon J.",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "apocalypse",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Apocalypse para Acorn Archimedes, lanzado en 1990, nos sumerge en una frenética experiencia de 'shoot 'em up' de desplazamiento vertical. Los jugadores toman el control de una nave espacial solitaria, encargada de diezmar hordas de enemigos alienígenas y superar intrincados obstáculos a través de niveles desafiantes. La recolección de potenciadores estratégicos era crucial para mejorar el armamento y la resistencia, permitiendo una inmersión profunda en su bucle de juego adictivo y exigente, que ponía a prueba los reflejos y la habilidad táctica de cada piloto virtual. Este título se erige como un testimonio de la capacidad técnica del Acorn Archimedes, destacando por sus gráficos fluidos y su banda sonora envolvente, que en su momento representaron un pináculo de rendimiento para la plataforma. \"Apocalypse\" no solo ofreció horas de entretenimiento intenso, sino que también solidificó la reputación de la máquina como un hogar para juegos de acción de alta calidad, dejando una huella imborrable en la memoria de aquellos que tuvieron el privilegio de pilotar su nave a través de sus mundos apocalípticos.",
+  "aiHints": "¿Sabías que...? Apocalypse fue aclamado por su increíble fluidez en el desplazamiento, una verdadera proeza técnica para el Acorn Archimedes de la época. - Un consejo de veteranos: aprender a dominar el uso del escudo era vital; activarlo en el momento justo podía salvarte de una muerte segura en las oleadas más densas. - Aunque no tiene un código Konami, muchos jugadores descubrieron que conservar las bombas para los jefes finales era la estrategia más efectiva, ¡cambiando el curso de la batalla por completo!",
+  "tiene_review": false
 }

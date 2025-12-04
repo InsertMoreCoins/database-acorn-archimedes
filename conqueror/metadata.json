@@ -1,61 +1,13 @@
 {
   "nombre": "Conqueror",
-  "nombre_original": "Conqueror (Europe)",
+  "nombre_original": "Conqueror",
   "sistema": "Acorn Archimedes",
-  "year": 1988,
+  "year": "1988",
   "genres": [
     "Shooter"
   ],
   "publisher": "Superior Software",
-  "developer": "Superior Software",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "conqueror",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Conqueror, lanzado en 1988 para el vanguardista Acorn Archimedes, ofrecía una fascinante amalgama de estrategia militar y acción de simulación de tanques. Los jugadores se sumergían en el fragor de la batalla, no solo pilotando su propio tanque en emocionantes combates en 3D de gráficos alámbricos, sino también gestionando un conflicto a gran escala. La clave del éxito residía en la planificación meticulosa: desplegar unidades, reabastecer combustible y municiones, y ejecutar tácticas en un mapa estratégico dinámico que fusionaba la microgestión con la adrenalina del campo de batalla.Este título no fue meramente un juego; fue una declaración técnica para el Acorn Archimedes, mostrando las capacidades de su potente CPU RISC con sus gráficos tridimensionales fluidos, algo notable para la época. Conqueror se consolidó como uno de los estandartes de la plataforma, recordado por su profundidad estratégica y su innovadora perspectiva en primera persona. Su legado reside en haber ofrecido una experiencia de guerra completa y envolvente, estableciendo un alto listón para los simuladores de combate vehicular de su generación.",
+  "aiHints": "¿Sabías que...\n- Conqueror fue uno de los primeros juegos en aprovechar plenamente la potencia del procesador ARM del Acorn Archimedes, permitiendo sus innovadores gráficos 3D alámbricos y su compleja simulación.\n- Una curiosidad entre los jugadores era la posibilidad de, con práctica, flanquear a los tanques enemigos para atacar sus puntos débiles traseros, una táctica que pocos juegos de la época simulaban con tal detalle. ¡La paciencia y el sigilo eran tus mejores aliados!",
+  "tiene_review": false
 }

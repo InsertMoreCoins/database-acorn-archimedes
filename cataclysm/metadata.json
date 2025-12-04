@@ -1,61 +1,13 @@
 {
   "nombre": "Cataclysm",
-  "nombre_original": "Cataclysm (Europe) (Disk 2)",
+  "nombre_original": "Cataclysm",
   "sistema": "Acorn Archimedes",
-  "year": 1991,
+  "year": "1991",
   "genres": [
     "Puzzle"
   ],
   "publisher": "4th Dimension",
-  "developer": "4th Dimension",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "cataclysm",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Cataclysm, lanzado en 1991 para el Acorn Archimedes, nos transporta a una era donde la destreza y los reflejos eran primordiales. Este shoot 'em up de desplazamiento vertical sumergía a los jugadores en intensos combates espaciales, pilotando una nave solitaria contra hordas alienígenas. La mecánica era sencilla pero adictiva: disparar sin cesar, esquivar proyectiles enemigos y recolectar potenciadores para mejorar el armamento, desde disparos múltiples hasta escudos protectores. Cada nivel culminaba en un desafiante enfrentamiento contra un jefe final, exigiendo patrones y una ejecución impecable. En su momento, Cataclysm fue un testamento del poder gráfico y de procesamiento del Acorn Archimedes, destacando por su desplazamiento suave y sus detallados sprites, algo notable para la época. Aunque quizás no alcanzó la fama de otros gigantes del género, dejó una huella imborrable en la comunidad de Acorn, siendo recordado como un título pulido y exigente que exprimía al máximo las capacidades de la plataforma. Su legado reside en ser un ejemplo brillante de la ingeniería británica de videojuegos de principios de los 90.",
+  "aiHints": "¿Sabías que Cataclysm fue uno de los juegos que mejor demostró la capacidad de desplazamiento suave (smooth scrolling) del Acorn Archimedes? ¡Era una proeza técnica para 1991!- Para los más nostálgicos: intenta memorizar los patrones de ataque de los jefes. Son complejos, pero repetitivos, lo que te dará la ventaja decisiva.- Un pequeño truco: algunos power-ups tienen una duración limitada. Prioriza recoger los que mejor se adapten a la situación actual del combate y no los guardes para después.",
+  "tiene_review": false
 }

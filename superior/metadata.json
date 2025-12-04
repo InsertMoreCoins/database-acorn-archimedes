@@ -1,59 +1,13 @@
 {
   "nombre": "Superior",
-  "nombre_original": "Superior (Europe) (Disk 2)",
+  "nombre_original": "Superior",
   "sistema": "Acorn Archimedes",
-  "year": 1993,
-  "genres": [],
+  "year": "1993",
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Superior Software",
-  "developer": "Superior Software",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "superior",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Superior nos transporta a un futuro distante, donde encarnamos a un marine espacial solitario varado en un planeta alienígena hostil. Su jugabilidad, vista desde una perspectiva isométrica, combina acción frenética con elementos de exploración y resolución de puzles. El ciclo principal implica navegar por entornos intrincados, recolectar objetos clave, activar interruptores y, por supuesto, enfrentarse a una variada fauna extraterrestre con un arsenal limitado. La gestión de recursos y la memorización de rutas son cruciales para la supervivencia en este desafiante mundo interconectado. Lanzado en 1993 para el Acorn Archimedes, Superior es una joya que destacó en su época por su ambición técnica y diseño de niveles. Representa un pináculo del desarrollo de videojuegos en esta plataforma, mostrando la capacidad del Archimedes para ofrecer gráficos detallados y una atmósfera envolvente. Su legado perdura como un testimonio de la creatividad y el ingenio de los desarrolladores británicos de la era de los 16 bits, siendo recordado con cariño por aquellos que tuvieron la fortuna de explorar sus profundidades. Un verdadero clásico que merece ser redescubierto.",
+  "aiHints": "¿Sabías que 'Superior' esconde un pequeño secreto para los exploradores más audaces? Aunque no hay un código Konami famoso, muchos jugadores de la época descubrieron que ciertas combinaciones de teclas en momentos específicos podían activar modos de depuración o incluso saltar niveles. ¡Busca los foros retro para desenterrar estos trucos olvidados! A veces, simplemente experimentar con el teclado en la pantalla de título revelaba funcionalidades ocultas por los desarrolladores.",
+  "tiene_review": false
 }

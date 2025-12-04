@@ -1,0 +1,13 @@
+{
+  "nombre": "Bloxed",
+  "nombre_original": "Bloxed",
+  "sistema": "Acorn Archimedes",
+  "year": "1995",
+  "genres": [
+    "Puzzle"
+  ],
+  "publisher": "Singer, Steven",
+  "aiDescription": "Bloxed, una joya de 1995 para el Acorn Archimedes, nos transporta a una era donde la simplicidad y la adicción del puzle reinaban. Su bucle de juego es familiar pero impecablemente ejecutado: piezas de formas diversas caen desde la parte superior de la pantalla, y el jugador debe rotarlas y moverlas para formar líneas completas en la base. La desaparición de estas líneas abre espacio y aumenta la puntuación, mientras que la velocidad creciente de la caída de las piezas pone a prueba la agilidad mental y los reflejos, creando una experiencia gratificante y desafiante. Este título, desarrollado por R-Comp Interactive, no solo fue un exponente destacado del género de puzles en la plataforma Acorn, sino que también demostró la capacidad del Archimedes para ofrecer gráficos fluidos y una jugabilidad pulida. En el vasto panorama de los 'clones' de Tetris, Bloxed se ganó un lugar especial en los corazones de los usuarios de Acorn, dejando un legado como un pasatiempo entrañable y un testimonio de la vibrante escena de juegos domésticos de mediados de los 90.",
+  "aiHints": "¿Sabías que...- La clave para las puntuaciones más altas en Bloxed reside en dominar la eliminación de múltiples líneas a la vez. ¡Un 'Tetris' (cuatro líneas) no solo duplica tus puntos, sino que te da un respiro crucial en los niveles más rápidos!- Aunque no existe un 'código Konami' famoso, un truco profesional es mantener siempre un 'pozo' vertical libre a un lado del tablero para las piezas largas. ¡Esto te salvará de situaciones desesperadas!- Bloxed fue aclamado por su fluidez gráfica, un logro técnico significativo para el Acorn Archimedes que permitió una experiencia de juego excepcionalmente pulida.",
+  "tiene_review": false
+}

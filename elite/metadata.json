@@ -1,61 +1,13 @@
 {
   "nombre": "Elite",
-  "nombre_original": "Elite (Europe)",
+  "nombre_original": "Elite",
   "sistema": "Acorn Archimedes",
-  "year": 1991,
+  "year": "1991",
   "genres": [
     "Simulation"
   ],
   "publisher": "Hybrid Technology",
-  "developer": "Hybrid Technology",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "elite",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "\"Elite\", en su encarnación para Acorn Archimedes de 1991, nos sumerge en una galaxia de ocho sectores generados proceduralmente, ofreciendo una libertad sin precedentes. Como comandante de una Cobra Mk III, el jugador se embarca en un ciclo adictivo de comercio interestelar, combates espaciales y misiones. Desde el transporte de mercancías con economías dinámicas hasta el enfrentamiento con piratas o las peligrosas maniobras de atraque, cada decisión forja el camino hacia la ansiada reputación de \"Elite\". Una sinfonía de exploración, riesgo y recompensa.Esta versión para Archimedes, aunque posterior al original de 1984, mantiene la esencia pionera que revolucionó la industria. Sus gráficos 3D wireframe, avanzados para su época, y su universo abierto y persistente, sentaron las bases para innumerables simuladores espaciales y juegos de mundo abierto. \"Elite\" no es solo un videojuego; es una pieza fundamental de la historia interactiva, un testimonio de la ambición y la visión que definieron una era dorada de la informática doméstica. Su legado resuena hasta hoy.",
+  "aiHints": "¿Sabías que...?- En \"Elite\", el \"Docking Computer\" no era un truco, sino una mejora vital. Automatizaba la temida secuencia de acoplamiento, salvando a muchos pilotos de estrellarse. ¡Una inversión que valía la pena!- El juego generaba proceduralmente ocho galaxias, cada una con 256 sistemas estelares. ¡Imagina explorar 2048 mundos únicos!- Los Thargoids, una raza alienígena hostil, eran la némesis por excelencia. Encontrarse con ellos en el vacío espacial era una experiencia inolvidable y peligrosa.",
+  "tiene_review": false
 }

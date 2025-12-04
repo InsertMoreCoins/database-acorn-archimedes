@@ -1,59 +1,13 @@
 {
   "nombre": "DesktopHacker",
-  "nombre_original": "DesktopHacker (Europe)",
+  "nombre_original": "DesktopHacker",
   "sistema": "Acorn Archimedes",
-  "year": 1994,
-  "genres": [],
+  "year": "1994",
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "DoggySoft",
-  "developer": "DoggySoft",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "desktophacker",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "DesktopHacker, lanzado en 1994 para el Acorn Archimedes, fue una gema singular que sumergía al jugador en una simulación pionera de un entorno de escritorio. Su bucle de juego consistía en \"hackear\" un sistema operativo virtual, navegando a través de directorios, manipulando archivos y ejecutando programas para resolver intrincados puzles lógicos. La experiencia era una mezcla fascinante de estrategia, gestión de recursos como ciclos de CPU y una constante sensación de exploración digital, todo ello presentado a través de una interfaz gráfica de usuario sorprendentemente avanzada para su época.Este título representa un hito en la creatividad de los videojuegos, adelantándose a su tiempo al ofrecer una visión interactiva de la ciberseguridad y la exploración de sistemas. Aunque fue desarrollado para una plataforma menos masiva, su ingenioso diseño y su inmersiva temática de \"hacking\" dejaron una huella indeleble. DesktopHacker es hoy un fascinante artefacto de la era dorada de los ordenadores domésticos, un testimonio de cómo la innovación florecía incluso en los nichos más especializados, prediciendo tendencias que se verían en juegos mucho más tarde.",
+  "aiHints": "¿Sabías que...? - Aunque DesktopHacker no tiene un código Konami, su mayor \"secreto\" reside en su innovadora interfaz. Fue uno de los primeros juegos en simular de forma tan convincente un entorno de sistema operativo completo, haciendo que cada archivo y programa se sintiera parte de un mundo persistente. - El juego utilizaba ingeniosamente los recursos del Acorn Archimedes para crear una experiencia inmersiva, simulando procesos de carga y errores de sistema que añadían realismo a tu \"carrera de hacker\". ¡Un verdadero pionero de la inmersión digital!",
+  "tiene_review": false
 }

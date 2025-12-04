@@ -1,61 +1,13 @@
 {
   "nombre": "Fireball II Extra",
-  "nombre_original": "Fireball II Extra (Europe)",
+  "nombre_original": "Fireball II Extra",
   "sistema": "Acorn Archimedes",
-  "year": 1990,
+  "year": "1990",
   "genres": [
     "Action"
   ],
   "publisher": "Cambridge International Software",
-  "developer": "Cambridge International Software",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "fireball-ii-extra",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Fireball II Extra, una joya de 1990 para el Acorn Archimedes, nos transporta a una era donde la simplicidad del arcade era sinónimo de adicción. En su núcleo, el juego es un refinado clon de Breakout/Arkanoid: el jugador controla una paleta en la parte inferior de la pantalla, cuyo objetivo es rebotar una bola para destruir una matriz de bloques en la parte superior. La mecánica se enriquece con una variedad de potenciadores que caen de los bloques destruidos, como bolas múltiples, una paleta más ancha o la capacidad de disparar láseres, transformando cada nivel en un desafío dinámico de estrategia y reflejos.\nEste título no solo fue un pasatiempo popular, sino también una demostración temprana de las capacidades gráficas y de sonido del potente procesador ARM del Acorn Archimedes. Representa una época dorada para los juegos de computadora británicos, donde la innovación y la jugabilidad pulcra eran prioritarias. Su legado perdura como un recordatorio entrañable de cómo los conceptos atemporales, ejecutados con maestría, pueden capturar la imaginación de una generación y ofrecer horas de entretenimiento puro, consolidándose como un clásico menor pero significativo en la historia de los videojuegos.",
+  "aiHints": "¿Sabías que Fireball II Extra es la secuela directa de 'Fireball' (1988), también para Acorn Archimedes, mejorando significativamente los gráficos y la jugabilidad?\n- Para los jugadores que buscaban una ventaja, presionar la tecla 'I' durante el juego podía otorgar invencibilidad, permitiéndote practicar sin la frustración de perder vidas.\n- Además, si te sentías atascado en un nivel, la tecla 'S' a menudo servía para saltarlo y avanzar. ¡Un pequeño secreto de desarrollo para los más impacientes!",
+  "tiene_review": false
 }

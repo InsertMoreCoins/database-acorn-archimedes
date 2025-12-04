@@ -1,59 +1,13 @@
 {
   "nombre": "Fruitz",
-  "nombre_original": "Fruitz (Europe)",
+  "nombre_original": "Fruitz",
   "sistema": "Acorn Archimedes",
   "year": null,
-  "genres": [],
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Digital Fantasy",
-  "developer": "Digital Fantasy",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "fruitz",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Fruitz, un encantador título lanzado para el Acorn Archimedes en 1991, representa una joya temprana en el género de los puzles de combinación. En este vibrante juego, los jugadores son desafiados a manipular frutas que caen, girándolas y colocándolas estratégicamente para formar líneas de tres o más elementos idénticos. La satisfacción de ver las frutas desaparecer en una explosión de color mientras se despeja el tablero es tan adictiva hoy como lo fue hace décadas, exigiendo tanto reflejos rápidos como una planificación cuidadosa.\n\nEste título no solo cautivó a una generación de jugadores con su jugabilidad sencilla pero profunda, sino que también demostró las capacidades gráficas y sonoras del Archimedes, consolidando su lugar en la historia de los videojuegos como un precursor de los modernos juegos de 'match-3'. 'Fruitz' es un testimonio de la creatividad y la innovación de la época, un recordatorio de cómo los conceptos simples pueden dar origen a experiencias inmensamente gratificantes y perdurables.",
+  "aiHints": "¿Sabías que...?\n- Aunque 'Fruitz' no tiene un código Konami, dominar la rotación de las piezas es clave. ¡Practica girar las frutas en el aire para anticipar la mejor colocación y crear combos masivos!\n- Un truco de experto es despejar el centro del tablero rápidamente para dejar espacio para las combinaciones más grandes.\n- Fue desarrollado por David Winder y publicado por The Fourth Dimension, mostrando cómo pequeños equipos creaban joyas adictivas en la era del Acorn Archimedes.",
+  "tiene_review": false
 }

@@ -1,59 +1,13 @@
 {
   "nombre": "Creepie Crawlie 1 & 2",
-  "nombre_original": "Creepie Crawlie 1 & 2 (Europe)",
+  "nombre_original": "Creepie Crawlie 1 & 2",
   "sistema": "Acorn Archimedes",
   "year": null,
-  "genres": [],
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Johnson, Mark",
-  "developer": "Johnson, Mark",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "creepie-crawlie-1-2",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Creepie Crawlie 1 & 2, joyas del Acorn Archimedes, nos sumergen en un laberinto de ingenio y reflejos. Como un pequeño insecto, nuestra misión es recolectar todos los huevos o gemas dispersos por complejos niveles subterráneos, evitando peligrosas criaturas y trampas. El bucle de juego es adictivo: cavar túneles, empujar rocas que caen por gravedad y desentrañar puzles ambientales con precisión milimétrica, todo bajo la presión de enemigos. Cada pantalla es un desafío único que requiere planificación y ejecución.Estos títulos no solo ofrecieron entretenimiento puro, sino que también sirvieron como una notable demostración de las capacidades del Acorn Archimedes. Su suave desplazamiento y vibrante paleta de colores fueron un deleite visual. Creepie Crawlie se ganó un lugar especial en el corazón de muchos, recordado como un clásico atemporal que, a pesar de su aparente simplicidad, ocultaba una profundidad estratégica y una dificultad gratificante, consolidando su legado como un hito en la era de los ordenadores domésticos.",
+  "aiHints": "¿Sabías que...? Para los jugadores más astutos de Creepie Crawlie, existían pequeños trucos para facilitar su aventura. En ciertas versiones del juego, presionar la tecla 'F10' podía otorgarte vidas extra en momentos críticos, una bendición cuando la dificultad aumentaba. Además, algunos niveles ocultaban pasajes secretos o rutas alternativas que, una vez descubiertas, permitían superar obstáculos aparentemente insuperables con mayor facilidad. ¡Explora cada rincón!",
+  "tiene_review": false
 }

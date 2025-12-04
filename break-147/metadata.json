@@ -1,61 +1,13 @@
 {
   "nombre": "Break 147",
-  "nombre_original": "Break 147 (Europe)",
+  "nombre_original": "Break 147",
   "sistema": "Acorn Archimedes",
-  "year": 1991,
+  "year": "1991",
   "genres": [
     "Sports"
   ],
   "publisher": "4th Dimension",
-  "developer": "4th Dimension",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "break-147",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Break 147, lanzado en 1991 para el Acorn Archimedes, fue un referente en la simulación de snooker. Su jugabilidad se basaba en una física de bolas sorprendentemente realista para la época, permitiendo a los jugadores afinar potencia, efecto y puntería con precisión. El objetivo, lograr el desafiante \"break de 147\", exigía paciencia y una ejecución impecable. La interfaz intuitiva y el control con ratón lo hacían accesible, pero la maestría era un camino gratificante para los más dedicados.Este título no fue solo un pasatiempo; fue una vitrina tecnológica para el Acorn Archimedes. Demostró la capacidad de su procesador ARM para manejar simulaciones complejas y animaciones fluidas, sentando un precedente para los juegos deportivos en la plataforma. Break 147 ocupa un lugar especial en la memoria de los entusiastas de Acorn, no solo como un excelente simulador, sino como un testamento de la ingeniosidad técnica de su tiempo.",
+  "aiHints": "¿Sabías que...? Lograr un \"break de 147\" en el juego era tan raro y desafiante como en la vida real. ¡Muchos jugadores dedicaron horas incontables solo a esa meta! Un consejo profesional: dominar el \"efecto\" (spin) de la bola blanca es crucial. Experimenta con los ajustes de efecto superior, inferior y lateral para controlar la posición de la bola blanca después del impacto. Esto te permitirá planificar varias jugadas y mantenerte en la mesa, acercándote a ese elusivo 147.",
+  "tiene_review": false
 }

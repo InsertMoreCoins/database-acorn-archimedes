@@ -1,61 +1,13 @@
 {
   "nombre": "Fireball II",
-  "nombre_original": "Fireball II (Europe)",
+  "nombre_original": "Fireball II",
   "sistema": "Acorn Archimedes",
-  "year": 1990,
+  "year": "1990",
   "genres": [
     "Action"
   ],
   "publisher": "Cambridge International Software",
-  "developer": "Cambridge International Software",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "fireball-ii",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Fireball II, lanzado para el Acorn Archimedes en 1990, es un encantador testimonio de la era dorada de los clones de Arkanoid y Breakout. Los jugadores se sumergen en la clásica mecánica de destruir ladrillos, controlando una pala para rebotar una bola y aniquilar formaciones de bloques. La adición de diversos potenciadores, desde bolas múltiples hasta palas más largas o láseres, inyecta una capa estratégica a cada nivel, requiriendo reflejos precisos y planificación astuta para despejar la pantalla.Este título no solo ofrecía una experiencia de juego pulida y adictiva, sino que también destacaba el músculo técnico del Acorn Archimedes, mostrando gráficos coloridos y una jugabilidad fluida. Como pieza de la historia de los videojuegos, Fireball II representa un hito en la programación para Archimedes, evocando una dulce nostalgia por una época en la que la simplicidad del concepto se unía a la complejidad de la ejecución para crear clásicos perdurables que aún hoy nos recuerdan la alegría pura del arcade.",
+  "aiHints": "¿Sabías que Fireball II, al igual que muchos juegos de Superior Software para Archimedes, ocultaba algunos trucos? - Prueba a presionar la tecla 'L' durante el juego para saltar al siguiente nivel si te encuentras atascado. ¡Ideal para explorar todos los diseños de pantalla! - Los desarrolladores a menudo incluían pequeños mensajes o firmas ocultas en los discos de juego. Aunque no hay un \"huevo de pascua\" visualmente obvio en el juego principal, la dedicación en el código fuente era un sello de la época. - ¡Un consejo profesional! Prioriza los potenciadores de \"bola múltiple\" al principio de un nivel para limpiar la pantalla más rápido y maximizar tu puntuación.",
+  "tiene_review": false
 }

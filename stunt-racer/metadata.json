@@ -1,61 +1,13 @@
 {
   "nombre": "Stunt Racer",
-  "nombre_original": "Stunt Racer (Europe) (Disk 2)",
+  "nombre_original": "Stunt Racer",
   "sistema": "Acorn Archimedes",
   "year": null,
   "genres": [
     "Driving"
   ],
   "publisher": "4th Dimension",
-  "developer": "4th Dimension",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "stunt-racer",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Stunt Racer, una joya del Acorn Archimedes, ofrecía una experiencia de carreras en 3D que destacaba por su énfasis en las acrobacias y la velocidad. Los jugadores se sumergían en circuitos llenos de rampas, bucles y giros imposibles, donde no solo la velocidad era clave, sino también la habilidad para ejecutar piruetas que sumaban puntos. Su modo multijugador a pantalla partida era una proeza técnica para la época, permitiendo duelos emocionantes que definieron tardes enteras de juego.\nEste título no solo fue un escaparate tecnológico para la potente arquitectura RISC del Acorn Archimedes, sino que también dejó una huella imborrable en la memoria colectiva de los entusiastas de la plataforma. A menudo comparado con otros pioneros de las carreras 3D, Stunt Racer se labró su propia identidad con una jugabilidad frenética y un enfoque en la espectacularidad. Su legado perdura como un testimonio de la innovación y la diversión que caracterizaron a los videojuegos de principios de los 90.",
+  "aiHints": "¿Sabías que el motor 3D de Stunt Racer fue una proeza técnica para el Acorn Archimedes? Su fluidez y detalle poligonal, impulsados por el procesador ARM, eran asombrosos para la época. Un truco de experto: dominar los \"barrel rolls\" no solo te daba puntos adicionales, sino que era esencial para recuperar el control tras saltos arriesgados. Además, la comunidad a menudo creaba sus propias pistas imposibles, ¡expandiendo la diversión mucho más allá de los circuitos predefinidos!",
+  "tiene_review": false
 }

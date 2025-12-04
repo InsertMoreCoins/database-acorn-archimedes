@@ -1,59 +1,13 @@
 {
   "nombre": "PD Lemings",
-  "nombre_original": "PD Lemings (Europe)",
+  "nombre_original": "PD Lemings",
   "sistema": "Acorn Archimedes",
   "year": null,
-  "genres": [],
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Cooper, Tom",
-  "developer": "Cooper, Tom",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "pd-lemings",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Lemmings, en su encarnación para Acorn Archimedes, nos invitaba a asumir el rol de un salvador, guiando a una horda de criaturas ingenuas a través de niveles repletos de peligros mortales. La mecánica central giraba en torno a la asignación de habilidades específicas –excavar, construir, bloquear, escalar o incluso explotar– a lemmings individuales, con el objetivo de trazar un camino seguro hacia la salida. Cada nivel presentaba un rompecabezas único de ingenio y sincronización, donde la gestión limitada de recursos y la observación meticulosa eran clave para evitar la aniquilación total de los pequeños protagonistas.Lanzado originalmente en 1991 por DMA Design, Lemmings no solo fue un éxito rotundo, sino que también se estableció como un pilar fundamental en la historia de los videojuegos. Su concepto innovador, su encanto visual y su banda sonora pegadiza lo catapultaron a la fama, inspirando innumerables títulos y demostrando el potencial creativo de los juegos de puzles. Su legado perdura como testimonio de una era dorada de experimentación y genialidad en el diseño de videojuegos, un verdadero clásico atemporal.",
+  "aiHints": "¿Sabías que...?- La idea original de Lemmings surgió de una simple animación de pequeños personajes caminando.- Aunque no tiene un 'código Konami' famoso, muchas versiones incluían códigos de nivel o trucos para acceder a modos de depuración.- Un consejo profesional: dominar el uso estratégico del 'minero' y el 'constructor' es crucial, pero no subestimes el poder del 'bombardero' para corregir errores o abrir atajos inesperados.- La icónica frase 'Oh no!' se convirtió en un meme mucho antes de que existiera internet.",
+  "tiene_review": false
 }

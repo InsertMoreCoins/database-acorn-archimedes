@@ -1,61 +1,13 @@
 {
   "nombre": "Talisman",
-  "nombre_original": "Talisman (Europe)",
+  "nombre_original": "Talisman",
   "sistema": "Acorn Archimedes",
-  "year": 1989,
+  "year": "1989",
   "genres": [
     "Action"
   ],
   "publisher": "Minerva Software",
-  "developer": "Minerva Software",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "talisman",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Adentrémonos en el encantador mundo de \"Talisman\" para Acorn Archimedes, lanzado en 1989. Esta adaptación digital del clásico juego de mesa transportaba a los jugadores a una búsqueda épica por la Corona de Mando. La mecánica central giraba en torno a la exploración de un tablero, el lanzamiento de dados, la interacción con cartas de aventura, el combate con criaturas y la adquisición de seguidores, hechizos y artefactos mágicos. Cada turno era una oportunidad para fortalecer al personaje, progresar y superar los desafíos hacia la victoria final. En su contexto histórico, esta versión de Talisman representa un hito temprano en la conversión de juegos de mesa complejos al formato digital. Demostró la capacidad gráfica del Acorn Archimedes, presentando un tablero vibrante y personajes detallados que daban vida al universo. Para muchos, fue su primera incursión en este reino de fantasía a través de una pantalla, sentando un precedente para futuras adaptaciones. Hoy, se erige como una joya nostálgica, un testimonio de la ambición y la creatividad de la era de los microordenadores.",
+  "aiHints": "¿Sabías que la versión de Acorn Archimedes de Talisman fue muy elogiada por su fiel recreación de las ilustraciones y reglas del juego de mesa original? Para los jugadores más astutos, dominar las habilidades de los personajes iniciales era clave. Por ejemplo, el Guerrero podía dominar los combates desde el principio, mientras que el Mago tenía una ventaja estratégica con los hechizos iniciales. ¡Una buena estrategia desde el primer turno podía cambiar el rumbo de la partida!",
+  "tiene_review": false
 }

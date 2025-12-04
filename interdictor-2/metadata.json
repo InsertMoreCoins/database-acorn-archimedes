@@ -1,61 +1,13 @@
 {
   "nombre": "Interdictor 2",
-  "nombre_original": "Interdictor 2 (Europe)",
+  "nombre_original": "Interdictor 2",
   "sistema": "Acorn Archimedes",
-  "year": 1989,
+  "year": "1989",
   "genres": [
     "Flying"
   ],
   "publisher": "Clares Micro Supplies",
-  "developer": "Clares Micro Supplies",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "interdictor-2",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Interdictor 2, una joya del Acorn Archimedes de 1989, sumerge al jugador en un sofisticado simulador de combate espacial. La mecánica central gira en torno a la defensa de sectores vitales contra incursiones alienígenas, combinando la acción frenética del dogfighting con una capa estratégica de gestión de recursos y planificación de misiones. Los pilotos debían no solo dominar el combate aéreo en entornos 3D de gráficos vectoriales, sino también tomar decisiones cruciales sobre la asignación de naves y armamento para proteger la federación. Este título representó un pináculo técnico para su época en el Archimedes, exhibiendo la capacidad de la máquina para manejar gráficos wireframe complejos y una jugabilidad profunda. Su legado reside en su ambición de fusionar la simulación de vuelo con elementos de estrategia, ofreciendo una experiencia que iba más allá del simple \"dispara y avanza\". Interdictor 2 es un testimonio de una era donde los juegos buscaban desafiar la inteligencia del jugador tanto como sus reflejos, dejando una huella imborrable en la memoria de aquellos que pilotaron sus naves.",
+  "aiHints": "¿Sabías que Interdictor 2 fue uno de los primeros juegos en el Acorn Archimedes en explotar a fondo su procesador ARM para renderizar entornos 3D wireframe a velocidades impresionantes? Para los pilotos veteranos: ¡la gestión de energía es clave! Desvía potencia a los escudos cuando te enfrentes a múltiples enemigos, o a los motores para una retirada rápida. Un pequeño truco para los más observadores: a veces, al destruir ciertas formaciones enemigas en secuencia, podías desbloquear patrones de ataque más complejos para la siguiente misión, ¡preparándote para el verdadero desafío!",
+  "tiene_review": false
 }

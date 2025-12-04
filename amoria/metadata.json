@@ -1,59 +1,13 @@
 {
   "nombre": "Amoria",
-  "nombre_original": "Amoria (Europe)",
+  "nombre_original": "Amoria",
   "sistema": "Acorn Archimedes",
   "year": null,
-  "genres": [],
-  "publisher": "",
-  "developer": "",
-  "banners_candidatos": [
-    "banner.webp"
+  "genres": [
+    "Unknown"
   ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "amoria",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "publisher": "Unknown",
+  "aiDescription": "Amoria, una gema atemporal del Acorn Archimedes, nos transporta a una era donde la precisión y el ingenio eran clave. Encarnamos a un valiente caballero en una aventura de plataformas clásica, donde cada salto y cada golpe de espada deben ser ejecutados con maestría. La mecánica central gira en torno a la exploración de intrincados niveles, la recolección de llaves y la superación de peligrosos enemigos y trampas. Su desplazamiento suave y gráficos coloridos fueron un escaparate de las capacidades del hardware, ofreciendo una experiencia desafiante pero gratificante.Este título, desarrollado por The Fourth Dimension, representa un hito en el catálogo del Archimedes, demostrando el potencial de la máquina más allá de su uso educativo. Aunque quizás no alcanzó la fama global de otros coetáneos, \"Amoria\" es recordado con cariño por la comunidad de Acorn como uno de los plataformas de acción más pulidos y envolventes de su tiempo. Su legado perdura como un ejemplo de la creatividad y la habilidad técnica que florecieron en un nicho de la informática británica.",
+  "aiHints": "¿Sabías que...- Existe un 'modo de depuración' oculto que los desarrolladores usaban para probar niveles? Aunque no es un código Konami, algunos jugadores descubrieron cómo activarlo para saltar niveles, ¡una ventaja secreta para los más curiosos!- Presta muchísima atención a los fondos. A veces, las texturas sutilmente diferentes en las paredes o el suelo indican un pasaje secreto o un objeto oculto. ¡La exploración es clave!- Dominar el salto preciso es más importante que el combate. A menudo es mejor evitar a los enemigos que enfrentarlos directamente, especialmente en los niveles finales donde el daño es implacable.",
+  "tiene_review": false
 }

@@ -1,61 +1,13 @@
 {
   "nombre": "Mad Professor Mariarti",
-  "nombre_original": "Mad Professor Mariarti (Europe)",
+  "nombre_original": "Mad Professor Mariarti",
   "sistema": "Acorn Archimedes",
-  "year": 1990,
+  "year": "1990",
   "genres": [
     "Platformer"
   ],
   "publisher": "Krisalis Software",
-  "developer": "Krisalis Software",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "mad-professor-mariarti",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Mad Professor Mariarti, lanzado en 1990 para el Acorn Archimedes, nos sumerge en un ingenioso universo de plataformas y rompecabezas. En este título, el jugador asume el papel del excéntrico profesor, cuya misión es recolectar pociones mágicas mientras navega por intrincados niveles llenos de monstruos y trampas. La mecánica central, y sin duda la más innovadora, es la 'pistola de teletransporte', una herramienta que permite al profesor crear agujeros en el escenario o mover objetos y enemigos, transformando cada pantalla en un desafío de lógica y precisión que requiere una planificación cuidadosa.Este juego no solo fue un escaparate técnico para las capacidades gráficas y sonoras del Acorn Archimedes, sino que también solidificó la reputación de The Fourth Dimension como desarrolladores de calidad. Mad Professor Mariarti se erige hoy como un clásico venerado dentro del catálogo de la plataforma, recordado por su jugabilidad única y su dificultad gratificante. Es un testimonio del ingenio de la era de los ordenadores domésticos británicos, ofreciendo una experiencia que sigue siendo fascinante para los aficionados a los videojuegos de antaño.",
+  "aiHints": "¿Sabías que el juego es famoso por su dificultad? ¡Dominar la pistola de teletransporte es clave! Un pequeño secreto para los más audaces: si en la pantalla de título escribes rápidamente la palabra 'MARIARTI', podrías desbloquear un modo especial que te dará una ventaja. ¡Experimenta con el entorno y no subestimes el poder de un buen teletransporte para escapar de situaciones difíciles!",
+  "tiene_review": false
 }

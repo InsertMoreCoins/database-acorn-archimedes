@@ -1,61 +1,13 @@
 {
   "nombre": "Tower of Babel",
-  "nombre_original": "Tower of Babel (Europe)",
+  "nombre_original": "Tower of Babel",
   "sistema": "Acorn Archimedes",
-  "year": 1991,
+  "year": "1991",
   "genres": [
     "Action"
   ],
   "publisher": "MicroProse",
-  "developer": "MicroProse",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "tower-of-babel",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Ah, 'Tower of Babel', una gema de 1991 para el Acorn Archimedes, nos transporta a una era donde la ingeniosidad era clave. Este plataformas de puzles sumerge al jugador en el desafío de guiar a la criatura Binky a través de intrincadas estructuras. Su mecánica central es la manipulación de bloques: empujarlos, tirar de ellos o destruirlos para crear caminos, activar interruptores o sortear abismos. Cada nivel es un rompecabezas físico que exige planificación meticulosa y ejecución precisa, un verdadero testamento al diseño inteligente de su época.Aunque quizás no alcanzó la fama mundial, 'Tower of Babel' brilla como un testimonio del ingenio británico en el Acorn Archimedes. Fue aclamado por su diseño de niveles y por exprimir el potencial técnico de la plataforma, ofreciendo gráficos detallados y un desplazamiento fluido. Para los aficionados a los puzles y la historia de los videojuegos, sigue siendo un ejemplo fascinante de cómo la creatividad florece en nichos de hardware, dejando un legado de desafío y satisfacción para quienes se atrevieron a ascender por su torre.",
+  "aiHints": "- ¿Sabías que Peter Scott, el creador de 'Tower of Babel', ingenió cada uno de los complejos niveles con una precisión asombrosa? ¡No hay movimientos superfluos! - Un consejo de experto: si te encuentras atascado, prueba a invertir el orden de tus acciones. A menudo, la solución reside en hacer lo 'incorrecto' primero para habilitar el camino correcto después. ¡Cada bloque tiene su propósito y su momento!",
+  "tiene_review": false
 }

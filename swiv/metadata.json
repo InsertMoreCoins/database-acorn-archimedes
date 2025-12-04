@@ -1,61 +1,13 @@
 {
   "nombre": "SWIV",
-  "nombre_original": "SWIV (Europe)",
+  "nombre_original": "SWIV",
   "sistema": "Acorn Archimedes",
-  "year": 1992,
+  "year": "1992",
   "genres": [
     "Shooter"
   ],
   "publisher": "Krisalis Software",
-  "developer": "Krisalis Software",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "swiv",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "SWIV, en su encarnación para Acorn Archimedes de 1992, es un sublime ejemplo del clásico \"shooter\" de desplazamiento vertical. Los jugadores tienen la singular elección de pilotar un helicóptero o conducir un jeep, cada uno con ventajas tácticas: el helicóptero domina los cielos y el agua, mientras que el jeep, confinado a tierra, posee una potencia de fuego terrestre superior. La esencia del juego reside en esquivar una implacable andanada de proyectiles, aniquilar un sinfín de enemigos y recolectar mejoras para potenciar armamento y defensa. Es una danza frenética de reflejos y estrategia.Este título no solo fue un escaparate técnico para el Archimedes, exhibiendo sus capacidades gráficas y sonoras con un desplazamiento suave y sprites detallados, sino que también solidificó su lugar como un digno sucesor de la era dorada de los arcades. Su legado perdura como un desafío gratificante y visualmente impactante, encapsulando la pura acción de los shooters clásicos. SWIV ofrece incontables horas de rejugabilidad, invitando a los entusiastas a dominar sus exigentes niveles y perseguir puntuaciones elevadas, un verdadero tesoro para los coleccionistas.",
+  "aiHints": "- ¿Sabías que \"SWIV\" es un acrónimo tardío? Los desarrolladores solo querían un nombre pegadizo y luego inventaron \"Special Weapons Interception Vehicles\".- Consejo profesional: Dominar la alternancia entre el helicóptero y el jeep es crucial. El helicóptero despeja amenazas aéreas y navega por el agua, mientras que el fuego terrestre del jeep es indispensable para objetivos terrestres blindados. ¡Prioriza siempre las mejoras de potencia!",
+  "tiene_review": false
 }

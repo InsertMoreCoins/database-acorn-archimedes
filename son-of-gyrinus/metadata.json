@@ -1,59 +1,13 @@
 {
   "nombre": "Son of Gyrinus",
-  "nombre_original": "Son of Gyrinus (Europe) (Disk 2)",
+  "nombre_original": "Son of Gyrinus",
   "sistema": "Acorn Archimedes",
   "year": null,
-  "genres": [],
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Cooper, Tom",
-  "developer": "Cooper, Tom",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "son-of-gyrinus",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Son of Gyrinus es un shoot 'em up horizontal que rinde homenaje a clásicos como Defender, pero con su propia personalidad distintiva en el Acorn Archimedes. El jugador pilota una nave espacial con la misión de proteger a los \"Gyrini\" (pequeñas criaturas) de oleadas de alienígenas hostiles. La mecánica principal implica el rescate de los Gyrini antes de que sean abducidos o destruidos, mientras se navega por un terreno peligroso y se elimina a los enemigos. La nave posee un sistema de armamento simple pero efectivo, y la habilidad de girar rápidamente es crucial para el posicionamiento estratégico y la defensa, añadiendo una capa de profundidad a su jugabilidad aparentemente sencilla. Lanzado en 1991 por Superior Software, Son of Gyrinus es un ejemplo brillante de la destreza técnica del Acorn Archimedes, mostrando gráficos fluidos y una acción frenética que pocos otros sistemas de la época podían igualar. Se convirtió en un título muy querido dentro de la comunidad de Archimedes, recordado por su adictiva jugabilidad y su desafiante dificultad. Su legado reside en ser un pilar de la biblioteca de juegos del Archimedes, una joya que demostró el potencial de la plataforma para los juegos de acción y que aún hoy evoca una profunda nostalgia entre aquellos que tuvieron el privilegio de jugarlo en su momento.",
+  "aiHints": "¿Sabías que los Gyrini no son solo puntos a proteger? Su comportamiento puede darte pistas sobre la dirección de los enemigos. Presta atención a cómo se mueven para anticipar los ataques. - Un truco esencial para los pilotos experimentados es dominar el giro rápido de la nave. Esto no solo te permite esquivar proyectiles, sino también reposicionarte instantáneamente para un contraataque, crucial en los niveles más avanzados. - Aunque no hay un \"código Konami\" famoso, el juego esconde pequeños detalles en sus patrones de enemigos que, una vez aprendidos, transforman una muerte segura en una oportunidad para la gloria. La práctica es tu mejor arma.",
+  "tiene_review": false
 }

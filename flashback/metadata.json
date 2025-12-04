@@ -1,61 +1,13 @@
 {
   "nombre": "Flashback",
-  "nombre_original": "Flashback (Europe) (Demo)",
+  "nombre_original": "Flashback",
   "sistema": "Acorn Archimedes",
-  "year": 1992,
+  "year": "1992",
   "genres": [
     "Platformer"
   ],
   "publisher": "Delphine Software International",
-  "developer": "Delphine Software International",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "flashback",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Flashback es un hito indiscutible en el género de plataformas cinemáticas, elevando la fórmula establecida por Prince of Persia a nuevas alturas. El jugador encarna a Conrad B. Hart, un amnésico que despierta en un planeta alienígena. La jugabilidad se centra en la exploración meticulosa, la resolución de intrincados puzles ambientales y el combate estratégico. Sus animaciones rotoscopiadas, de una fluidez y realismo asombrosos para la época, crearon una inmersión sin precedentes, haciendo que cada salto y cada disparo se sintieran deliberados y con peso. La curva de aprendizaje es exigente, pero la recompensa es una experiencia profundamente satisfactoria.\n\nLanzado en 1992, Flashback no fue solo un logro técnico, sino también narrativo, con una trama de ciencia ficción madura y compleja que cautivó a los jugadores. Su influencia se extendió rápidamente, inspirando a numerosos títulos posteriores y consolidando la reputación de Delphine Software. La versión de Acorn Archimedes, en particular, destacó por su fidelidad al diseño original y su rendimiento sólido. Este título sigue siendo un testimonio del ingenio de la era de los 16 bits, recordado con cariño por su atmósfera única y su diseño de niveles inteligente, un verdadero clásico atemporal.",
+  "aiHints": "¿Sabías que Flashback fue reconocido en el Libro Guinness de los Récords Mundiales como el juego francés más vendido de la historia? ¡Un logro impresionante! Además, las asombrosas animaciones de Conrad B. Hart se lograron mediante la técnica de rotoscopia, filmando a un actor y luego dibujando cada cuadro. Esto le dio una fluidez y realismo sin precedentes para la época. Para los más audaces, en algunas versiones del juego, introducir 'CONRAD' en el menú principal desbloqueaba un menú de trucos. ¡Explora cada rincón, las pistas ocultas son clave para la supervivencia!",
+  "tiene_review": false
 }

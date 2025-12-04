@@ -1,61 +1,13 @@
 {
   "nombre": "Pipemania",
-  "nombre_original": "Pipemania (Europe)",
+  "nombre_original": "Pipemania",
   "sistema": "Acorn Archimedes",
-  "year": 1988,
+  "year": "1988",
   "genres": [
     "Puzzle"
   ],
   "publisher": "The Assembly Line",
-  "developer": "The Assembly Line",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "pipemania",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Pipemania, un clásico atemporal lanzado para Acorn Archimedes en 1988, desafía la agilidad mental y la planificación estratégica. Los jugadores deben construir rápidamente un camino ininterrumpido de tuberías en un tablero por el que fluirá un líquido viscoso. Las piezas aparecen aleatoriamente y el tiempo es crucial, pues el flujo comienza inevitablemente. La clave es anticipar los giros y maximizar la puntuación, evitando desbordamientos desastrosos. Es un rompecabezas de acción adictivo y absorbente. Este título se convirtió rápidamente en un fenómeno global, adaptándose a casi todas las plataformas de la época. Su concepto simple pero adictivo sentó las bases para innumerables juegos de rompecabezas posteriores, influyendo en el diseño de niveles y la gestión del tiempo. Pipemania es una pieza fundamental en la historia de los videojuegos, un testimonio de cómo una idea brillante puede trascender generaciones, manteniéndose relevante y divertida incluso hoy en día.",
+  "aiHints": "¿Sabías que Pipemania fue uno de los primeros juegos en popularizar el género de rompecabezas de construcción en tiempo real, inspirando a innumerables títulos posteriores? - Un truco de experto: ¡Nunca construyas solo una línea recta! Siempre intenta crear bucles o bifurcaciones para maximizar tu puntuación y comprar tiempo extra cuando el flujo se acerque al final. La planificación anticipada es tu mejor aliada. - En algunas versiones, existen códigos ocultos para saltar niveles o acceder a modos especiales. Por ejemplo, en ciertas adaptaciones, introducir nombres específicos como \"THEATRE\" podía desbloquear sorpresas. ¡Experimenta!",
+  "tiene_review": false
 }

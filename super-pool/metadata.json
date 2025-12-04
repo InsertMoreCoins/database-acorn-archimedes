@@ -1,61 +1,13 @@
 {
   "nombre": "Super Pool",
-  "nombre_original": "Super Pool (Europe)",
+  "nombre_original": "Super Pool",
   "sistema": "Acorn Archimedes",
-  "year": 1991,
+  "year": "1991",
   "genres": [
     "Sports/Pool and Dart"
   ],
   "publisher": "4th Dimension",
-  "developer": "4th Dimension",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "super-pool",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Super Pool para Acorn Archimedes, lanzado en 1991, representa un pináculo en las simulaciones de billar de su época. Los jugadores eran atraídos por su meticulosa recreación de la física del juego, permitiendo un control preciso sobre la potencia del tiro, el ángulo e incluso el efecto aplicado a la bola blanca. La interfaz intuitiva hacía accesible la complejidad del billar, desde el simple golpe hasta las carambolas más elaboradas, ofreciendo una experiencia inmersiva que desafiaba tanto a novatos como a veteranos del taco virtual.\nMás allá de su jugabilidad, Super Pool ocupa un lugar especial en la historia de los videojuegos como un ejemplo brillante de lo que el Acorn Archimedes era capaz de lograr. Sus gráficos detallados y su suave animación eran un testimonio del poder de la plataforma, estableciendo un estándar para futuros juegos de billar. Hoy, lo recordamos con cariño no solo como un entretenido simulador, sino como una pieza de museo que encapsula la innovación y el encanto de la era de los ordenadores domésticos de principios de los 90.",
+  "aiHints": "¿Sabías que Super Pool fue aclamado por su motor de física increíblemente realista para la época? Esto permitía un nivel de precisión en los tiros que pocos juegos de billar habían logrado antes. - Un truco para los profesionales: dominar el 'efecto' (spin) en la bola blanca era clave. Aplicar el giro correcto no solo afectaba la trayectoria de la bola objetivo, sino que también era esencial para posicionar estratégicamente la bola blanca para el siguiente golpe, una habilidad que separaba a los maestros de los principiantes.",
+  "tiene_review": false
 }

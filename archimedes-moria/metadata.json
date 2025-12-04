@@ -1,61 +1,13 @@
 {
   "nombre": "Archimedes Moria",
-  "nombre_original": "Archimedes Moria (Europe)",
+  "nombre_original": "Archimedes Moria",
   "sistema": "Acorn Archimedes",
-  "year": 1992,
+  "year": "1992",
   "genres": [
     "Role-Playing"
   ],
-  "publisher": "",
-  "developer": "",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "archimedes-moria",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "publisher": "Unknown",
+  "aiDescription": "Archimedes Moria nos transporta a las profundidades de un laberinto subterráneo, ofreciendo una experiencia de rol de mazmorras clásica y sin concesiones. Como dignos herederos de la tradición \"roguelike\", los jugadores se embarcan en una aventura de exploración turno a turno, enfrentándose a hordas de criaturas, gestionando un inventario en constante crecimiento y dominando un vasto repertorio de habilidades y hechizos. Cada decisión cuenta en este mundo implacable, donde la estrategia y la gestión de recursos son clave para la supervivencia a través de sus niveles generados proceduralmente.Lanzado en 1992 para el avanzado Acorn Archimedes, Archimedes Moria no solo fue un hito técnico para la plataforma, sino también un embajador de un género que estaba ganando adeptos. Representó la cúspide de la complejidad y la rejugabilidad en su época, demostrando la capacidad del Archimedes para albergar mundos de fantasía intrincados. Su legado perdura como un recordatorio de una era donde la imaginación del jugador era tan crucial como los gráficos en pantalla, dejando una huella imborrable en la memoria de aquellos que se atrevieron a explorar sus oscuros pasillos.",
+  "aiHints": "¿Sabías que Archimedes Moria es una adaptación de Angband, que a su vez desciende del original Moria de los mainframes? Esto significa que su profundidad y complejidad son el resultado de años de evolución del género roguelike. Un truco esencial para los novatos es aprender a identificar objetos de forma segura: ¡nunca bebas una poción desconocida en un lugar peligroso! Guarda siempre tus pergaminos de 'Identificar' para objetos valiosos. ¡La paciencia es tu mejor arma contra las trampas y monstruos del Abismo!",
+  "tiene_review": false
 }

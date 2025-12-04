@@ -1,61 +1,13 @@
 {
   "nombre": "Aliped",
-  "nombre_original": "Aliped (Europe)",
+  "nombre_original": "Aliped",
   "sistema": "Acorn Archimedes",
-  "year": 1990,
+  "year": "1990",
   "genres": [
     "Adventure"
   ],
   "publisher": "Felix, Andrew",
-  "developer": "Felix, Andrew",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "aliped",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Aliped, lanzado en 1990 para el Acorn Archimedes, nos invita a un viaje nostálgico a la era dorada de los plataformas. En este título, los jugadores asumen el control de una criatura singular de múltiples patas, el Aliped, a través de intrincados laberintos llenos de peligros y secretos. La mecánica central, y lo que realmente lo distingue, es la capacidad del Aliped para ajustar la longitud de sus patas, una innovación que permitía sortear obstáculos, alcanzar plataformas elevadas o deslizarse por pasajes estrechos, añadiendo una capa estratégica a la exploración. Este juego no solo fue un ejemplo temprano de scroll suave y gráficos vibrantes en la plataforma Archimedes, sino que también representó un hito técnico para la época. Desarrollado por The Fourth Dimension, Aliped demostró las capacidades multimedia del Archimedes, consolidándose como una joya en el catálogo del sistema. Su legado perdura como un testimonio de la creatividad y la ingeniosidad de una era de la computación doméstica, recordándonos la magia de la exploración y la resolución de puzles en un formato de plataformas único.",
+  "aiHints": "¿Sabías que Aliped fue elogiado por su excepcional scroll suave, un logro técnico impresionante para el Acorn Archimedes en 1990? - La clave para dominar cada nivel reside en experimentar constantemente con la longitud de las patas de tu Aliped; a veces, una pequeña diferencia puede abrir un nuevo camino o evitar un peligro. - ¡Un pequeño secreto! Intenta buscar áreas ocultas que solo son accesibles con la longitud de pata correcta; a menudo contienen celdas de energía extra o atajos valiosos.",
+  "tiene_review": false
 }

@@ -1,61 +1,13 @@
 {
   "nombre": "E-Type",
-  "nombre_original": "E-Type (Europe) (Disk 2)",
+  "nombre_original": "E-Type",
   "sistema": "Acorn Archimedes",
-  "year": 1989,
+  "year": "1989",
   "genres": [
     "Driving"
   ],
   "publisher": "Key, Gordon J.",
-  "developer": "Key, Gordon J.",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "e-type",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "E-Type para Acorn Archimedes nos sumerge en una experiencia de conducción de lujo. Los jugadores toman el volante del icónico Jaguar E-Type, compitiendo contra el reloj en diversos circuitos. El objetivo es dominar las curvas y rectas, evitando daños al vehículo mientras se persiguen los mejores tiempos. La física básica y la vista desde la cabina con indicadores ofrecían una inmersión notable, un desafío gratificante de habilidad y precisión para la época. Lanzado en 1989, E-Type fue un escaparate técnico para el Acorn Archimedes. Su capacidad para renderizar entornos tridimensionales con una fluidez sorprendente y un sentido de la velocidad era notable, destacando cuando el 3D doméstico era incipiente. Aunque no masivamente conocido, es una pieza clave en la historia de los simuladores de coches, recordado por su ambición gráfica y por sentar bases para futuros juegos de carreras en 3D. Una verdadera reliquia digital.",
+  "aiHints": "E-Type no es conocido por códigos de trucos famosos como el Konami Code. En cambio, su encanto reside en la pura habilidad de conducción. ¡Curiosidad! El juego fue desarrollado por System 3 y distribuido por Acornsoft. Para maximizar la inmersión, el equipo se esforzó en recrear la sensación de velocidad y el manejo del Jaguar E-Type, un coche que era un símbolo de elegancia y potencia. Un consejo profesional: la clave para dominar E-Type es aprender a frenar antes de las curvas, no durante. ¡La suavidad es tu mejor aliada!",
+  "tiene_review": false
 }

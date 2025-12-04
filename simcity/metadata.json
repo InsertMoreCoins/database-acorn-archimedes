@@ -1,61 +1,13 @@
 {
   "nombre": "SimCity",
-  "nombre_original": "SimCity (Europe)",
+  "nombre_original": "SimCity",
   "sistema": "Acorn Archimedes",
-  "year": 1993,
+  "year": "1993",
   "genres": [
     "Strategy"
   ],
   "publisher": "Maxis Software",
-  "developer": "Maxis Software",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "simcity",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "El SimCity para Acorn Archimedes, lanzado en 1993, es una joya atemporal que sumerge al jugador en el rol de un alcalde omnipotente. Su bucle de juego es hipnotizante: zonificar meticulosamente áreas residenciales, comerciales e industriales, construir infraestructuras vitales como carreteras y centrales eléctricas, y equilibrar un presupuesto precario con las necesidades de una población en constante crecimiento. La gestión de desastres, desde incendios hasta ataques de monstruos, añade una capa impredecible de desafío, obligando a una planificación estratégica y una adaptabilidad constantes para forjar una metrópolis próspera.\n\nEsta edición particular fue fundamental para llevar la visión revolucionaria de Will Wright a la comunidad de Acorn. SimCity no solo estableció las bases del género de simulación de ciudades, sino que también redefinió lo que significaba el control indirecto y la jugabilidad emergente. Su legado perdura, habiendo influenciado a innumerables títulos y habiendo inculcado en toda una generación la fascinación por la arquitectura urbana y la gestión cívica, un verdadero monumento al ingenio interactivo.",
+  "aiHints": "¿Sabías que la inspiración para SimCity de Will Wright surgió mientras creaba niveles para su juego anterior, 'Raid on Bungeling Bay'? Se dio cuenta de que disfrutaba más diseñando el mundo que jugando el propio juego. ¡Y un consejo pro! Si tu ciudad sufre un ataque de un monstruo o un desastre, a veces construir una estación de policía o bomberos justo en el camino del desastre puede *detenerlo* mágicamente. ¡Pruébalo!",
+  "tiene_review": false
 }

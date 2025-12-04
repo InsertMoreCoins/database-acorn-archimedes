@@ -1,61 +1,13 @@
 {
   "nombre": "Chuck Rock",
-  "nombre_original": "Chuck Rock (Europe) (Disk 1)",
+  "nombre_original": "Chuck Rock",
   "sistema": "Acorn Archimedes",
-  "year": 1991,
+  "year": "1991",
   "genres": [
     "Platformer"
   ],
   "publisher": "Core Design",
-  "developer": "Core Design",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "chuck-rock",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Chuck Rock, lanzado en 1991 para el Acorn Archimedes, nos sumerge en una encantadora aventura prehistórica. Encarnamos a Chuck, un cavernícola fornido cuya misión es rescatar a su amada Ophelia de las garras del malvado Gary Gritter. Este clásico del género de plataformas destaca por su jugabilidad directa: Chuck puede saltar, golpear a sus enemigos y, de forma distintiva, usar su \"barrigazo\" para mover enormes rocas, revelando caminos ocultos o aplastando adversarios. Los niveles, llenos de dinosaurios y otros peligros, ofrecen un desafío gratificante para la época. Desarrollado por los talentosos Core Design, quienes más tarde alcanzarían la fama mundial con la saga Tomb Raider, Chuck Rock se erige como un testimonio vibrante de la creatividad de principios de los años 90. Su estilo gráfico robusto y colorido, junto con la personalidad carismática de su protagonista, lo convirtieron en un título memorable en el catálogo del Archimedes. Es una pieza fascinante que ilustra la evolución de los juegos de plataformas y la semilla de futuros éxitos de una compañía icónica.",
+  "aiHints": "¿Sabías que...\n- Core Design, los creadores de Chuck Rock, se hicieron mundialmente famosos años después por dar vida a Lara Croft y la saga Tomb Raider. ¡Un salto evolutivo impresionante!\n- El desarrollo del juego comenzó con un concepto muy diferente, donde Chuck Rock era originalmente un hombre de las cavernas más delgado y ágil, antes de transformarse en el fornido personaje que todos conocemos y amamos.\n- En algunas versiones del juego, existían códigos ocultos que permitían acceder a selección de nivel o invencibilidad. ¡Explorar los manuales o revistas de la época era clave para descubrirlos!",
+  "tiene_review": false
 }

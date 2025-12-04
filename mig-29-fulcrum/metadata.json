@@ -1,61 +1,13 @@
 {
   "nombre": "MiG-29 Fulcrum",
-  "nombre_original": "MiG-29 Fulcrum (Europe)",
+  "nombre_original": "MiG-29 Fulcrum",
   "sistema": "Acorn Archimedes",
-  "year": 1991,
+  "year": "1991",
   "genres": [
     "Flying"
   ],
   "publisher": "Simis",
-  "developer": "Simis",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "mig-29-fulcrum",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "MiG-29 Fulcrum para Acorn Archimedes, lanzado en 1991, sumerge al jugador en la cabina de uno de los cazas soviéticos más icónicos de la Guerra Fría. Este simulador de vuelo ofrecía una experiencia sorprendentemente detallada para su época, combinando dogfights aéreos intensos con misiones de ataque terrestre. La meticulosa recreación de la aviónica y los sistemas de armamento, junto con un sistema de control que requería práctica, lo convertían en un desafío gratificante para los entusiastas de la aviación virtual.En el panorama de los simuladores de vuelo de principios de los 90, MiG-29 Fulcrum se destacó por su ambición técnica en la plataforma Acorn Archimedes. Fue un testimonio de la capacidad del sistema para renderizar entornos 3D complejos y ofrecer una jugabilidad profunda. Aunque no alcanzó la fama de sus contemporáneos en PC, dejó una huella significativa entre los usuarios de Archimedes, recordado como un título que empujó los límites gráficos y de simulación en su nicho de mercado, cimentando su lugar como una pieza fascinante de la historia del software de vuelo.",
+  "aiHints": "¿Sabías que MiG-29 Fulcrum fue elogiado por su impresionante motor 3D, que exprimía al máximo el procesador ARM del Acorn Archimedes para ofrecer gráficos fluidos y detallados? ¡Fue un logro técnico pionero! Para dominar los cielos: - Dedica tiempo a familiarizarte con los complejos controles de vuelo; la paciencia es clave. - Aprovecha los modos de entrenamiento para perfeccionar tus técnicas de dogfight y bombardeo. - Usa tu radar constantemente para anticipar amenazas y planificar tus ataques. ¡Mantente alerta!",
+  "tiene_review": false
 }

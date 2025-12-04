@@ -1,61 +1,13 @@
 {
   "nombre": "WIMP Game, The",
-  "nombre_original": "WIMP Game, The (Europe)",
+  "nombre_original": "WIMP Game, The",
   "sistema": "Acorn Archimedes",
-  "year": 1990,
+  "year": "1990",
   "genres": [
     "Action"
   ],
   "publisher": "4th Dimension",
-  "developer": "4th Dimension",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "wimp-game-the",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Ah, 'The WIMP Game', una joya poco conocida de la era dorada del Acorn Archimedes en 1990. Este título nos sumerge en una aventura de plataformas clásica, donde controlamos a un pequeño héroe a través de intrincados niveles. La mecánica es sencilla pero adictiva: saltar con precisión, esquivar enemigos y recolectar objetos mientras se descifran pequeños puzles. La fluidez de sus animaciones y la respuesta del control eran, para su época, un testamento de la potencia del Archimedes, ofreciendo una experiencia de juego gratificante y desafiante.Más allá de su jugabilidad, 'The WIMP Game' es un artefacto cultural que nos recuerda la vibrante escena de desarrollo en el Reino Unido y el potencial del Acorn Archimedes. Aunque no alcanzó la fama de otros contemporáneos, su existencia es un testimonio de la diversidad y creatividad de los desarrolladores que exploraban las capacidades de esta máquina innovadora. Hoy, lo recordamos con cariño como una pieza de la historia de los videojuegos, un recordatorio de una era donde la imaginación y la tecnología se unían.",
+  "aiHints": "¿Sabías que...?\n- El título 'WIMP Game' es un guiño irónico al acrónimo WIMP (Windows, Icons, Menus, Pointers), que describe la interfaz gráfica de usuario. ¡Un chiste técnico para los expertos de la época!\n- Aunque el juego no tiene un código de trucos famoso, un consejo profesional es dominar el salto de precisión. Muchos niveles requieren una sincronización perfecta para evitar trampas mortales y enemigos. ¡La paciencia es clave para superar los desafíos más intrincados!\n- ¡Busca los secretos! Algunos niveles ocultan pasajes y objetos extra que pueden facilitar tu aventura.",
+  "tiene_review": false
 }

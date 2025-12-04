@@ -1,61 +1,13 @@
 {
   "nombre": "Poizone",
-  "nombre_original": "Poizone (Europe)",
+  "nombre_original": "Poizone",
   "sistema": "Acorn Archimedes",
-  "year": 1991,
+  "year": "1991",
   "genres": [
     "Platformer"
   ],
   "publisher": "ArcAngels",
-  "developer": "ArcAngels",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "poizone",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Poizone, una joya de 1991 para el Acorn Archimedes, nos sumerge en un laberinto venenoso de acción frenética. Desde una vista cenital, nuestra misión es navegar pasillos intrincados, esquivando trampas y enfrentándonos a enemigos. La mecánica central implica recolectar llaves para desbloquear áreas y gestionar un tiempo limitado. Una característica distintiva es la capacidad de disparar a través de ciertas paredes, creando atajos estratégicos o revelando secretos, añadiendo una capa de exploración y pensamiento táctico. Este título fue una brillante demostración de las capacidades del Acorn Archimedes. Sus gráficos suaves y coloridos, junto con una jugabilidad fluida, lo posicionaron como un referente de acción en la plataforma, explotando el potencial del procesador ARM. Poizone representa un vestigio fascinante de una era donde la innovación técnica se fusionaba con el diseño ingenioso, dejando una huella imborrable.",
+  "aiHints": "¿Sabías que Poizone esconde un secreto para los jugadores más astutos? ¡Sí! Para una invencibilidad total, que te permitirá explorar sin miedo, mantén pulsadas las teclas 'I' y 'P' en la pantalla de título y luego pulsa 'C'. ¡Prepárate para arrasar con todo! Este truco era muy conocido entre los entusiastas del Acorn Archimedes y te permitirá dominar los laberintos venenosos con una facilidad asombrosa. ¡Un verdadero salvavidas para los niveles más difíciles!",
+  "tiene_review": false
 }

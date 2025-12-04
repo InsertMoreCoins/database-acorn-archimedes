@@ -1,59 +1,13 @@
 {
   "nombre": "ArcOmnibus",
-  "nombre_original": "ArcOmnibus (Europe)",
+  "nombre_original": "ArcOmnibus",
   "sistema": "Acorn Archimedes",
   "year": null,
-  "genres": [],
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Beebug",
-  "developer": "Beebug",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "arcomnibus",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "ArcOmnibus para el Acorn Archimedes es una joya de la emulación, un verdadero cofre del tesoro que trae la magia de los salones recreativos directamente a nuestros hogares. Este compilatorio magistral nos sumerge en la esencia pura del arcade clásico, ofreciendo reproducciones sorprendentemente fieles de títulos icónicos de Atari como Centipede, Missile Command y Asteroids. La jugabilidad, aunque aparentemente sencilla, es profundamente adictiva, invitando a los jugadores a perfeccionar sus habilidades y a perseguir puntuaciones altas en bucles de juego que definieron una era.En su momento, ArcOmnibus no solo fue una celebración de la historia de los videojuegos, sino también una demostración palpable de las capacidades técnicas del Acorn Archimedes. Permitió a una nueva generación de entusiastas experimentar la emoción de estos clásicos atemporales con una fidelidad asombrosa, consolidando el lugar del Archimedes como una plataforma capaz de ofrecer experiencias de juego de alta calidad. Su legado perdura como un testimonio de la preservación cultural del videojuego, un puente entre el pasado arcade y el futuro de los sistemas domésticos.",
+  "aiHints": "¿Sabías que...?- ArcOmnibus fue una proeza técnica para el Acorn Archimedes, demostrando su capacidad para emular con gran fidelidad los complejos gráficos y sonidos de las máquinas arcade originales de Atari.- Un secreto de desarrollo: La compilación fue elogiada por su precisión, resultado de un meticuloso trabajo de ingeniería inversa para replicar la experiencia auténtica de juegos como Centipede y Missile Command.- Pro-tip: En Asteroids, mantener el control del centro de la pantalla y limpiar los asteroides pequeños rápidamente te ayudará a sobrevivir más tiempo contra las naves enemigas.",
+  "tiene_review": false
 }

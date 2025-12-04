@@ -1,61 +1,13 @@
 {
   "nombre": "Paradroid 2000",
-  "nombre_original": "Paradroid 2000 (Europe)",
+  "nombre_original": "Paradroid 2000",
   "sistema": "Acorn Archimedes",
-  "year": 1985,
+  "year": "1985",
   "genres": [
     "Shooter"
   ],
   "publisher": "Hewson",
-  "developer": "Hewson",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "paradroid-2000",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Paradroid 2000 para Acorn Archimedes nos invita a un desafío estratégico inolvidable. Como la Unidad de Influencia 001, debemos purgar una nave espacial de robots rebeldes. La mecánica central es ingeniosa: \"influenciar\" a otros droids mediante un minijuego, tomando el control de sus cuerpos para usar sus armas y habilidades. Esta estrategia de posesión es vital, obligando al jugador a tomar decisiones tácticas sobre qué unidad controlar y cuándo, gestionando la energía de forma eficiente para sobrevivir.Esta versión para Archimedes rinde homenaje al aclamado original de Andrew Braybrook. Paradroid se distinguió por su innovadora jugabilidad y enfoque estratégico, que trascendía la acción pura. Su legado reside en cómo redefinió la interacción con los enemigos, ofreciendo una experiencia profunda y adictiva. Es un brillante ejemplo de diseño inteligente que mantiene su encanto y desafío intactos, una verdadera joya en la historia de los videojuegos.",
+  "aiHints": "¿Sabías que la clave para dominar Paradroid 2000 a menudo reside en la astucia, no en la fuerza bruta?- Pro-tip: Intenta siempre \"influenciar\" a los droids con números más bajos primero. Son más fáciles de controlar y suponen un menor gasto de energía, permitiéndote construir una base sólida antes de enfrentarte a enemigos más poderosos.- El minijuego de transferencia es un desafío en sí mismo; dominarlo con reflejos rápidos es esencial para el éxito.- ¡Cada droid tiene un papel! Usar unidades débiles como escudos temporales o para agotar a los enemigos más fuertes puede cambiar el rumbo de la batalla.",
+  "tiene_review": false
 }

@@ -1,61 +1,13 @@
 {
   "nombre": "Alien Invasion",
-  "nombre_original": "Alien Invasion (Europe)",
+  "nombre_original": "Alien Invasion",
   "sistema": "Acorn Archimedes",
-  "year": 1994,
+  "year": "1994",
   "genres": [
     "Action"
   ],
   "publisher": "Alien Images",
-  "developer": "Alien Images",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "alien-invasion",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Alien Invasion, lanzado en 1994 para el venerable Acorn Archimedes, nos transporta a una era donde la destreza arcade reinaba. Este título, un shooter de vista cenital, sumerge al jugador en una incesante batalla contra hordas alienígenas. La mecánica es sencilla pero adictiva: pilotar nuestra nave, esquivar proyectiles enemigos y desatar una lluvia de fuego para despejar la pantalla. Los potenciadores, cuidadosamente esparcidos, añaden una capa estratégica, permitiendo mejoras en armamento y escudo que son cruciales para sobrevivir a las cada vez más desafiantes oleadas y jefes finales. Contemplar Alien Invasion hoy es recordar la vibrante escena de los ordenadores británicos. Aunque quizás no alcanzó la fama de sus contemporáneos en otras plataformas, fue un testimonio del potencial gráfico y sonoro del Acorn Archimedes. Su legado reside en ser una pieza clave de la biblioteca de juegos de esta máquina, demostrando que incluso en nichos específicos, la innovación y la diversión podían florecer. Es un artefacto digital que captura la esencia de una época de experimentación y creatividad en el desarrollo de videojuegos.",
+  "aiHints": "¿Sabías que...?- Para maximizar tu puntuación en Alien Invasion, es crucial no solo disparar, sino también recolectar los bonus que dejan los enemigos más grandes. ¡Prioriza a esos adversarios!- Un pequeño secreto de desarrollo: el programador, Peter Johnson, escondió un mensaje de agradecimiento en los archivos del juego, aunque no es accesible directamente durante el juego. Es un guiño a los entusiastas que exploraban el código.- ¡Mantén siempre un ojo en los power-ups de escudo! Son vitales para las fases avanzadas donde la densidad de proyectiles enemigos se vuelve abrumadora.",
+  "tiene_review": false
 }

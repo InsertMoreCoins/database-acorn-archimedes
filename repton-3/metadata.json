@@ -1,61 +1,13 @@
 {
   "nombre": "Repton 3",
-  "nombre_original": "Repton 3 (Europe)",
+  "nombre_original": "Repton 3",
   "sistema": "Acorn Archimedes",
-  "year": 1988,
+  "year": "1988",
   "genres": [
     "Puzzle"
   ],
   "publisher": "Superior Software",
-  "developer": "Superior Software",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "repton-3",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Repton 3, en su encarnación para el Acorn Archimedes de 1988, nos invita a un viaje nostálgico a la época dorada de los rompecabezas. Como el pequeño Repton, nuestra misión es recolectar todos los diamantes esparcidos por intrincados niveles, mientras navegamos por un laberinto de tierra, rocas y peligros. El ingenio es clave para empujar rocas, excavar túneles y manipular el entorno, evitando hongos explosivos y espíritus errantes, todo ello bajo la presión de un reloj implacable. Cada movimiento debe ser calculado, transformando el juego en una danza estratégica de lógica y anticipación.Esta joya de Superior Software no es solo un juego, sino un pilar en la historia de los ordenadores domésticos británicos. Heredero de una saga ya legendaria en el BBC Micro, Repton 3 elevó el listón con sus desafiantes rompecabezas y su pulido diseño, convirtiéndose en un título esencial para la plataforma Archimedes. Su legado perdura como un testimonio de la creatividad y la profundidad que se podían alcanzar con recursos limitados, siendo un recuerdo entrañable para quienes crecieron con la computación Acorn y un ejemplo perdurable del arte del diseño de videojuegos de rompecabezas.",
+  "aiHints": "¿Sabías que Repton 3 incluía un potente editor de niveles? Esta característica revolucionaria permitía a los jugadores crear sus propios rompecabezas, compartirlos con amigos y disfrutar de una rejugabilidad casi infinita. ¡La comunidad de Acorn generó miles de niveles personalizados, extendiendo la vida del juego mucho más allá de su lanzamiento original! Un verdadero precursor de los juegos 'crea tu propio contenido'.",
+  "tiene_review": false
 }

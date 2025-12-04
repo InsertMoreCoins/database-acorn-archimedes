@@ -1,59 +1,13 @@
 {
   "nombre": "Hacker, The",
-  "nombre_original": "Hacker, The (Europe)",
+  "nombre_original": "Hacker, The",
   "sistema": "Acorn Archimedes",
-  "year": 1993,
-  "genres": [],
+  "year": "1993",
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "DoggySoft",
-  "developer": "DoggySoft",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "hacker-the",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Adentrémonos en \"Hacker, The\", una joya de 1993 para el Acorn Archimedes que nos sumerge en el emocionante mundo de la ciberseguridad. Como jugador, uno asume el rol de un hacker, cuya misión es infiltrarse en sistemas informáticos, evadiendo defensas digitales y descifrando complejos enigmas lógicos. La jugabilidad se desarrolla a través de una interfaz de línea de comandos simulada, donde la habilidad para introducir los comandos correctos y la perspicacia para resolver puzles son clave para el éxito.Este título es un fascinante testimonio de la incipiente cultura hacker de los años 90, y un ejemplo de cómo el Acorn Archimedes albergó experiencias de juego únicas. Aunque no tan conocido globalmente, \"Hacker, The\" dejó una huella en quienes exploraron sus redes virtuales, ofreciendo una visión temprana y cautivadora de lo que significaba ser un 'pirata informático' en la era digital naciente, mucho antes de su popularización masiva.",
+  "aiHints": "¿Sabías que la intrincada interfaz de línea de comandos de \"Hacker, The\" fue diseñada para emular herramientas de hacking reales de su época? Esto ofrecía a los jugadores una experiencia de infiltración digital sorprendentemente auténtica, aunque simplificada. Para los aspirantes a 'hackers' virtuales, un consejo clave es siempre mapear la estructura de la red y documentar los comandos descubiertos; la memoria es tu mejor aliada contra los sistemas más protegidos.",
+  "tiene_review": false
 }

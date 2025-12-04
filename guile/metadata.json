@@ -1,61 +1,13 @@
 {
   "nombre": "Guile",
-  "nombre_original": "Guile (Europe)",
+  "nombre_original": "Guile",
   "sistema": "Acorn Archimedes",
-  "year": 1992,
+  "year": "1992",
   "genres": [
     "Action"
   ],
   "publisher": "Dream",
-  "developer": "Dream",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "guile",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Guile, lanzado en 1992 para el Acorn Archimedes, nos transporta a una era donde el ingenio técnico y la jugabilidad plataformera reinaban. En este título, los jugadores asumen el papel de Guile, un héroe ágil que debe sortear intrincados niveles repletos de peligros y puzles. La mecánica central gira en torno a la exploración, la recolección de objetos clave y la precisa ejecución de saltos, todo ello mientras se evitan enemigos y trampas. Su desplazamiento suave y gráficos detallados eran un testimonio del potencial del Archimedes.Este juego no solo fue una adición sólida al catálogo del Acorn, sino que también representó un hito para la plataforma. Aunque quizás no alcanzó la fama global de otros gigantes de la época, 'Guile' es recordado con cariño por los entusiastas del Archimedes. Sirve como una cápsula del tiempo, mostrándonos cómo los desarrolladores de la época aprovechaban al máximo el hardware disponible para crear experiencias inmersivas, consolidando su lugar en la historia de los videojuegos de computadoras personales.",
+  "aiHints": "¿Sabías que 'Guile' fue uno de los juegos que mejor demostró la capacidad de desplazamiento suave (smooth scrolling) del Acorn Archimedes? Este logro técnico era un orgullo para la época y para los desarrolladores de The Fourth Dimension, quienes exprimieron el hardware ARM del Archimedes para ofrecer una experiencia visualmente fluida. ¡Un verdadero hito para los estándares de la computación doméstica de principios de los 90!",
+  "tiene_review": false
 }

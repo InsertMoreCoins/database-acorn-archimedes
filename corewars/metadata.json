@@ -1,59 +1,13 @@
 {
   "nombre": "Corewars",
-  "nombre_original": "Corewars (Europe)",
+  "nombre_original": "Corewars",
   "sistema": "Acorn Archimedes",
   "year": null,
-  "genres": [],
-  "publisher": "",
-  "developer": "",
-  "banners_candidatos": [
-    "banner.webp"
+  "genres": [
+    "Unknown"
   ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "corewars",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "publisher": "Unknown",
+  "aiDescription": "Corewars, en su encarnación para el Acorn Archimedes, nos transporta a una arena digital donde el intelecto es la única arma. Los jugadores diseñan y despliegan \"guerreros\" —pequeños programas escritos en Redcode— que se ejecutan simultáneamente en una memoria virtual compartida. El objetivo es destruir a los oponentes sobrescribiendo su código o enviándolos a bucles infinitos, mientras protegen su propia existencia. Es una danza estratégica de lógica, anticipación y, a menudo, caos controlado, que premia la astucia programática.\n\nEste título no es solo un juego, sino un fascinante experimento informático que floreció en la era dorada de la computación doméstica. Corewars tiene sus raíces en desafíos de programación de la década de 1980, sirviendo como una herramienta educativa y un campo de pruebas para la inteligencia artificial y la programación de bajo nivel. Su legado perdura como un testimonio de la creatividad, ofreciendo una inmersión profunda en la lógica pura y el arte de la programación, un verdadero tesoro para los aficionados a la historia de los videojuegos.",
+  "aiHints": "¿Sabías que Corewars tiene sus orígenes en un juego conceptual de 1984, publicado en la revista Scientific American? No hay \"trucos\" como tal, ¡el juego *es* el truco! La clave para la victoria radica en el diseño inteligente de tu guerrero Redcode. Un consejo profesional: experimenta con \"guerreros de papel\" (scanners) que buscan y atacan, o \"guerreros de piedra\" (bombs) que se replican y saturan la memoria. La eficiencia y la imprevisibilidad son tus mejores aliados.",
+  "tiene_review": false
 }

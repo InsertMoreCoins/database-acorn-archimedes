@@ -1,59 +1,13 @@
 {
   "nombre": "Coconizer",
-  "nombre_original": "Coconizer (Europe)",
+  "nombre_original": "Coconizer",
   "sistema": "Acorn Archimedes",
-  "year": 1990,
-  "genres": [],
+  "year": "1990",
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Playfield",
-  "developer": "Playfield",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "coconizer",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Coconizer, lanzado en 1990 para el Acorn Archimedes, nos transporta a una vibrante aventura selvática donde encarnamos a un ingenioso mono. La mecánica central gira en torno a la recolección de cocos dispersos por intrincados niveles de plataformas, mientras esquivamos peligrosos enemigos y trampas ambientales. Nuestro protagonista puede saltar, trepar y lanzar cocos como proyectiles defensivos, exigiendo precisión y reflejos para superar los desafíos que presenta cada pantalla.Este título es una joya nostálgica que exhibe las capacidades gráficas y la fluidez del Acorn Archimedes, una máquina avanzada para su época gracias a su procesador ARM. Aunque quizás no alcanzó la fama global de sus contemporáneos de consola, Coconizer es un clásico entrañable para la comunidad de Acorn y una pieza importante del legado del software británico. Su encanto reside en su simplicidad y en la ejecución pulida de su propuesta, un verdadero testamento de la ingeniosidad en plataformas menos masivas.",
+  "aiHints": "- ¿Sabías que Coconizer fue elogiado por su suave desplazamiento (scrolling) y sus gráficos coloridos, demostrando el potencial del Acorn Archimedes? Los desarrolladores de The Fourth Dimension realmente exprimieron la máquina.- ¡Consejo de experto! Presta atención a los patrones de movimiento de los enemigos y a la disposición de las plataformas. La paciencia y la memorización son tus mejores aliados para dominar los niveles más desafiantes.- Aunque no tiene un código Konami, algunos jugadores reportaron métodos para acceder a modos de depuración ocultos, ¡lo que permitía explorar niveles de formas inesperadas!",
+  "tiene_review": false
 }

@@ -1,59 +1,13 @@
 {
   "nombre": "MadDash 2",
-  "nombre_original": "MadDash 2 (Europe)",
+  "nombre_original": "MadDash 2",
   "sistema": "Acorn Archimedes",
-  "year": 2001,
-  "genres": [],
+  "year": "2001",
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Hampton, Ian",
-  "developer": "Hampton, Ian",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "maddash-2",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "MadDash 2, lanzado en 2001 para la venerable Acorn Archimedes, se erige como un vibrante testimonio del ingenio en el desarrollo de videojuegos de plataformas de la época. En esta secuela, los jugadores son invitados a sumergirse en un torbellino de acción frenética, navegando a través de intrincados niveles llenos de desafíos. La mecánica central gira en torno a la recolección de objetos, la evasión de peligros y el dominio de un control de personaje ágil, ofreciendo una experiencia de juego que combina reflejos rápidos con una pizca de estrategia para superar cada obstáculo.Esta joya olvidada representa uno de los últimos suspiros del desarrollo comercial de juegos para la plataforma Acorn, mostrando hasta dónde podían llegar los desarrolladores con su arquitectura ARM única. Su legado no reside en la fama global, sino en el cariño de una comunidad dedicada que valoró la creatividad y la jugabilidad pulida que MadDash 2 ofrecía. Es una cápsula del tiempo, evocando una era donde la pasión por el diseño de juegos a menudo superaba las limitaciones técnicas, dejando una huella imborrable en la historia de los videojuegos británicos.",
+  "aiHints": "¿Sabías que...\n- MadDash 2 oculta un mensaje secreto de los desarrolladores. Si completas el juego sin perder ninguna vida, se desbloquea una pantalla especial con los nombres del equipo y un agradecimiento. ¡Un reto solo para los más hábiles!\n- Un pro-tip crucial: recolectar todos los ítems de bonificación en un nivel no solo suma puntos. También revela rutas secretas y atajos que te pueden llevar a power-ups exclusivos, alterando drásticamente tu estrategia de juego. ¡La exploración es clave!",
+  "tiene_review": false
 }

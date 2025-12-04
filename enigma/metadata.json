@@ -1,61 +1,13 @@
 {
   "nombre": "Enigma",
-  "nombre_original": "Enigma (Europe)",
+  "nombre_original": "Enigma",
   "sistema": "Acorn Archimedes",
-  "year": 1993,
+  "year": "1993",
   "genres": [
     "Puzzle"
   ],
   "publisher": "Trax Software",
-  "developer": "Trax Software",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "enigma",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Enigma, lanzado en 1993 para el Acorn Archimedes, nos sumerge en un mundo laberíntico donde la lógica y la precisión son esenciales. Como una pequeña esfera, el jugador debe navegar intrincados niveles, empujando bloques, activando interruptores y recolectando gemas. Su mecánica, que combina puzles con una física sorprendentemente avanzada para la época, crea un desafío adictivo y gratificante, donde cada movimiento cuenta y un paso en falso puede requerir un reinicio.Esta joya del software británico no solo demostró las capacidades del hardware Archimedes, sino que también estableció un estándar para los juegos de puzle basados en la física. Aunque quizás no alcanzó la fama masiva, Enigma es recordado con cariño por quienes lo descubrieron, dejando una huella indeleble como un título ingenioso y profundamente satisfactorio. Su legado perdura, inspirando a futuros diseñadores con su enfoque minimalista pero infinitamente complejo.",
+  "aiHints": "¿Sabías que Enigma incluía un editor de niveles? Esta característica, inusual para su época, permitía a los jugadores crear y compartir sus propios y desafiantes laberintos, extendiendo infinitamente la vida del juego.- Aunque no existe un 'código Konami' famoso, muchos jugadores descubrieron combinaciones de teclas secretas para saltar niveles o activar la invulnerabilidad, ¡perfecto para esos puzles imposibles!",
+  "tiene_review": false
 }

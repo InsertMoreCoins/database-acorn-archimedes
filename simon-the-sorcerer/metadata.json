@@ -1,61 +1,13 @@
 {
   "nombre": "Simon the Sorcerer",
-  "nombre_original": "Simon the Sorcerer (Europe) (Disk 3)",
+  "nombre_original": "Simon the Sorcerer",
   "sistema": "Acorn Archimedes",
-  "year": 1994,
+  "year": "1994",
   "genres": [
     "Adventure"
   ],
   "publisher": "Adventuresoft",
-  "developer": "Adventuresoft",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "simon-the-sorcerer",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "\"Simon the Sorcerer\", lanzado para Acorn Archimedes en 1994, nos transporta a una era dorada de las aventuras gráficas. En su núcleo, el juego es una obra maestra del \"point-and-click\", donde los jugadores asumen el papel del cínico adolescente Simon, arrastrado a un mundo de fantasía lleno de magia y personajes excéntricos. La mecánica de juego se centra en la resolución de ingeniosos puzles, interactuando con el entorno, recolectando objetos y utilizándolos de formas a menudo inesperadas. La interfaz de \"verbo-moneda\" y los diálogos ingeniosos son fundamentales para desentrañar sus misterios.Este título de Adventuresoft es un pilar en la historia de los videojuegos, recordado por su vibrante estilo artístico, sus personajes inolvidables y su humor mordaz, a menudo paródico. Se ganó su lugar junto a los grandes del género, como las producciones de LucasArts, gracias a su encanto único y sus desafíos bien construidos. El legado de \"Simon the Sorcerer\" reside en su capacidad para transportar a los jugadores a un mundo imaginativo, dejando una huella imborrable en la memoria de quienes lo experimentaron.",
+  "aiHints": "¿Sabías que...?- La voz original de Simon en la versión inglesa fue interpretada por Chris Barrie, famoso por su papel en la serie de comedia \"Red Dwarf\".- El juego está plagado de guiños y parodias a obras clásicas de fantasía como \"El Señor de los Anillos\" o \"Las Crónicas de Narnia\", así como a cuentos de hadas tradicionales.- ¡Hay una forma de que Simon se quede atascado en un árbol al principio del juego, lo que resulta en un final prematuro! ¡Ten cuidado con tus elecciones!",
+  "tiene_review": false
 }

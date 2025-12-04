@@ -1,0 +1,13 @@
+{
+  "nombre": "Hero Quest",
+  "nombre_original": "Hero Quest",
+  "sistema": "Acorn Archimedes",
+  "year": "1991",
+  "genres": [
+    "Role-Playing"
+  ],
+  "publisher": "221B Software Development",
+  "aiDescription": "Hero Quest para Acorn Archimedes (1991) es una joya digital que capturó la esencia del amado juego de mesa. Los jugadores controlan un grupo de héroes —Bárbaro, Elfa, Enano, Mago—, navegando por mazmorras. La jugabilidad es una mezcla adictiva de combate por turnos, exploración estratégica de cuadrículas y lanzamientos de dados para determinar el éxito de acciones como atacar monstruos, desactivar trampas y buscar tesoros. Cada misión presenta desafíos únicos, empujando a los jugadores a dominar las habilidades de sus héroes para prevalecer.\n\nEsta adaptación de Gremlin Graphics destacó por sus gráficos y fiel recreación de la atmósfera del tablero original. Sirvió como un puente crucial entre el juego de mesa y el videojuego, estableciendo un estándar para futuras adaptaciones de fantasía. Su legado perdura como un recordatorio nostálgico de una era donde la imaginación y la estrategia se fusionaban en la pantalla, ofreciendo horas de aventura. Es una pieza fundamental en la historia del software de entretenimiento de principios de los 90.",
+  "aiHints": "Sabías que el hechizo 'Dormir' del Mago es una de las herramientas más poderosas? Puede neutralizar a los enemigos más peligrosos por turnos, dándote tiempo para reagrupar o derrotar a otros monstruos. ¡Es crucial para misiones difíciles! Además, no olvides buscar puertas secretas en las paredes de las mazmorras; a menudo esconden tesoros valiosos o rutas alternativas.",
+  "tiene_review": false
+}

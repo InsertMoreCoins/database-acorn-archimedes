@@ -1,61 +1,13 @@
 {
   "nombre": "Oh, No! More Lemmings!",
-  "nombre_original": "Oh, No! More Lemmings! (Europe)",
+  "nombre_original": "Oh, No! More Lemmings!",
   "sistema": "Acorn Archimedes",
-  "year": 1992,
+  "year": "1992",
   "genres": [
     "Puzzle"
   ],
   "publisher": "DMA Design",
-  "developer": "DMA Design",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "oh-no-more-lemmings",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Oh, No! More Lemmings!, lanzado para Acorn Archimedes en 1992, es una expansión independiente que mantiene y eleva la ingeniosa mecánica del clásico original. El juego desafía a los jugadores a guiar a una horda de lemmings a través de entornos peligrosos, asignándoles habilidades específicas como construir puentes, cavar túneles o bloquear el paso, para asegurar su supervivencia. La esencia del bucle de juego reside en la planificación estratégica y la gestión de recursos bajo presión, donde cada decisión es crucial para evitar la aniquilación de los pequeños seres. Los niveles, más complejos y exigentes, ponen a prueba el ingenio y la paciencia del jugador.\nEste título no solo añadió cien nuevos niveles al universo Lemmings, sino que también consolidó su estatus como un referente en el género de puzles y estrategia. Su lanzamiento en plataformas como el Acorn Archimedes demuestra la versatilidad y el alcance de la franquicia en el mercado de videojuegos de la época. \"Oh, No! More Lemmings!\" es un recordatorio nostálgico de una era donde la innovación en el diseño de niveles y la mecánica de juego eran primordiales, dejando un legado duradero como un clásico atemporal que sigue siendo apreciado por su desafío y creatividad.",
+  "aiHints": "¿Sabías que...?\n- Aunque \"Oh, No! More Lemmings!\" no tiene un \"código Konami\", los jugadores expertos dominaban el reinicio rápido del nivel para perfeccionar sus estrategias, ¡una habilidad crucial para los desafíos más brutales!\n- ¡Un pequeño secreto de desarrollo! Algunos niveles ocultaban mensajes o nombres curiosos en el diseño del paisaje, un guiño divertido de los creadores para los más observadores.\n- Y un consejo pro: salvar al 100% de tus Lemmings en los niveles más difíciles no solo te daba una puntuación perfecta, sino que a menudo desbloqueaba animaciones o mensajes especiales de felicitación, ¡un verdadero honor!",
+  "tiene_review": false
 }

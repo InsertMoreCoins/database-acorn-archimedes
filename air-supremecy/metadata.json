@@ -1,59 +1,13 @@
 {
   "nombre": "Air Supremecy",
-  "nombre_original": "Air Supremecy (Europe)",
+  "nombre_original": "Air Supremecy",
   "sistema": "Acorn Archimedes",
   "year": null,
-  "genres": [],
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Superior Software",
-  "developer": "Superior Software",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "air-supremecy",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Air Supremacy, una joya del Acorn Archimedes, nos sumerge en intensas batallas aéreas con una fluidez y detalle gráfico impresionantes para su época. Los pilotos virtuales asumían el control de diversas aeronaves de combate, enfrentándose en dogfights vertiginosos y misiones estratégicas que abarcaban desde la interceptación de enemigos hasta el ataque a objetivos terrestres. Su jugabilidad, centrada en la acción rápida y la precisión de vuelo, ofrecía una experiencia inmersiva que ponía a prueba tanto los reflejos como la habilidad táctica del jugador. Este título no solo fue un hito técnico que demostró el poderío del procesador ARM del Archimedes, sino que también se consolidó como uno de los simuladores de vuelo más respetados de su generación. Su legado perdura como un testimonio de la innovación en los videojuegos de principios de los 90, recordado con cariño por aquellos que surcaron sus cielos pixelados. Air Supremacy representa una pieza fundamental en la historia de los videojuegos británicos y del hardware Acorn.",
+  "aiHints": "¿Sabías que... - Air Supremacy fue elogiado por su impresionante rendimiento gráfico y su fluidez, demostrando las capacidades avanzadas del procesador ARM del Acorn Archimedes, algo revolucionario para la época. - Aunque no existe un \"código Konami\" famoso, algunos trucos de invencibilidad o munición infinita se podían activar mediante utilidades de terceros o combinaciones de teclas específicas, ¡perfectas para dominar los cielos sin preocupaciones! - Un consejo profesional: dominar los giros cerrados y el uso inteligente del postquemador era clave para superar a los oponentes más ágiles en los combates aéreos.",
+  "tiene_review": false
 }

@@ -1,59 +1,13 @@
 {
   "nombre": "Bubble Fair",
-  "nombre_original": "Bubble Fair (Europe)",
+  "nombre_original": "Bubble Fair",
   "sistema": "Acorn Archimedes",
-  "year": 1991,
-  "genres": [],
+  "year": "1991",
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Eterna",
-  "developer": "Eterna",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "bubble-fair",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Bubble Fair, lanzado en 1991 para el Acorn Archimedes, nos sumerge en un encantador universo de puzles de acción. En este título, el jugador asume el papel de una pequeña hada encargada de limpiar la pantalla de coloridas burbujas que descienden implacablemente. La mecánica es sencilla pero adictiva: disparas tus propias burbujas hacia arriba, buscando agrupar tres o más del mismo color para hacerlas estallar y desaparecer. La estrategia reside en la precisión del disparo y la anticipación, ya que el objetivo es evitar que las burbujas lleguen al límite inferior de la pantalla. Este juego es un ejemplo fascinante de la creatividad que floreció en plataformas menos masivas, como el Acorn Archimedes. Aunque a menudo se le compara con otros clásicos de burbujas, Bubble Fair estableció su propia identidad con un estilo visual distintivo y una jugabilidad pulida. Representa un hito en el género de puzles de disparos, mostrando el potencial técnico del Archimedes y dejando una huella nostálgica en aquellos que tuvieron el placer de descubrirlo en su época, como una pequeña joya de la era de los 16 bits.",
+  "aiHints": "¿Sabías que... - Aunque no existe un 'código Konami' famoso para Bubble Fair, ¡hay secretos en su diseño! - Para maximizar tu puntuación, intenta crear reacciones en cadena. Si una burbuja explota y deja otras burbujas sin soporte, ¡también caerán y te darán puntos extra! - Presta atención a las burbujas especiales; algunas pueden cambiar de color o explotar en un área, siendo clave para salir de situaciones difíciles. - Un truco de experto es rebotar las burbujas en las paredes para alcanzar ángulos difíciles y limpiar grupos aislados. ¡La práctica hace al maestro en este juego!",
+  "tiene_review": false
 }

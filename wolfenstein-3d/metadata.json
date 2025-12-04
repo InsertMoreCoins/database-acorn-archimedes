@@ -1,0 +1,13 @@
+{
+  "nombre": "Wolfenstein 3D",
+  "nombre_original": "Wolfenstein 3D",
+  "sistema": "Acorn Archimedes",
+  "year": "1994",
+  "genres": [
+    "Shooter"
+  ],
+  "publisher": "id Software",
+  "aiDescription": "Wolfenstein 3D, en su versión para Acorn Archimedes de 1994, representa una piedra angular en la historia de los videojuegos, siendo uno de los primeros y más influyentes shooters en primera persona. Los jugadores asumen el papel de B.J. Blazkowicz, infiltrándose en fortalezas nazis para desmantelar sus operaciones. La mecánica central gira en torno a la exploración de laberínticos niveles, el combate frenético contra soldados y mutantes, y la recolección de llaves y tesoros para avanzar. Su jugabilidad directa y adictiva sentó las bases para innumerables títulos futuros.Más allá de su jugabilidad, Wolfenstein 3D es fundamental por su legado histórico. Aunque no fue el primer juego en utilizar gráficos 3D en primera persona, su lanzamiento masivo y éxito lo catapultaron a la fama, popularizando el género y abriendo el camino para gigantes como Doom. La versión de Acorn Archimedes, lanzada un par de años después del original de PC, es un testimonio de la ambición de llevar esta experiencia revolucionaria a diversas plataformas, consolidando su estatus como un hito cultural y tecnológico que definió una era.",
+  "aiHints": "- ¿Sabías que Wolfenstein 3D popularizó los \"trucos\" en los videojuegos? En la versión de PC, podías activar un menú de depuración con la combinación M-I-L para obtener vida, munición y llaves ilimitadas, ¡convirtiéndote en el terror de los nazis! - Explora cada pared; muchas esconden pasadizos secretos con tesoros o atajos. - ¡Y prepárate para el encuentro final con un Mecha-Hitler lanzacohetes, una sorpresa inolvidable!",
+  "tiene_review": false
+}

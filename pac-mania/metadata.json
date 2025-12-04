@@ -1,61 +1,13 @@
 {
   "nombre": "Pac-Mania",
-  "nombre_original": "Pac-Mania (Europe)",
+  "nombre_original": "Pac-Mania",
   "sistema": "Acorn Archimedes",
-  "year": 1991,
+  "year": "1991",
   "genres": [
     "Action"
   ],
   "publisher": "Namco",
-  "developer": "Namco",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "pac-mania",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Pac-Mania, en su encarnación para el Acorn Archimedes de 1991, nos transporta a una dimensión isométrica del clásico comecocos. Aquí, nuestro querido Pac-Man no solo devora puntos y frutas en laberintos tridimensionales vibrantes, sino que también adquiere la novedosa habilidad de saltar. Esta mecánica introduce una capa estratégica fresca, permitiéndonos esquivar a los fantasmas o sortear ciertos obstáculos, elevando la experiencia de persecución y escape a un nuevo nivel de interacción y desafío.Esta versión para Archimedes es un testimonio de la ambición técnica de la época, mostrando cómo los sistemas domésticos de alta gama podían replicar y, en ocasiones, mejorar la experiencia arcade. Pac-Mania representa un audaz intento de modernizar una fórmula atemporal, manteniendo la esencia adictiva del original mientras experimentaba con perspectivas y habilidades. Su legado radica en ser un puente entre la tradición arcade y la evolución visual de los videojuegos, un artefacto digital que aún hoy evoca sonrisas nostálgicas.",
+  "aiHints": "¡Sabías que Pac-Mania introdujo una de las mecánicas más revolucionarias para Pac-Man?- El salto no solo sirve para esquivar fantasmas; úsalo estratégicamente para cruzar secciones del laberinto más rápido o para alcanzar puntos elevados.- ¡Presta atención a la música! Cada tipo de laberinto, como 'Block Town' o 'Sandbox Land', tiene su propia melodía distintiva, añadiendo carácter a cada desafío.- Un truco de profesional: si un fantasma está a punto de alcanzarte mientras saltas, al aterrizar justo a tiempo sobre una píldora de poder, aún puedes comértelo. ¡El timing es clave!",
+  "tiene_review": false
 }

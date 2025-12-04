@@ -1,61 +1,13 @@
 {
   "nombre": "Gorm",
-  "nombre_original": "Gorm (Europe)",
+  "nombre_original": "Gorm",
   "sistema": "Acorn Archimedes",
-  "year": 1994,
+  "year": "1994",
   "genres": [
     "Adventure"
   ],
   "publisher": "Archimedes World",
-  "developer": "Archimedes World",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "gorm",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Gorm, lanzado en 1994 para el Acorn Archimedes, es un fascinante testimonio de exploración de mundos interconectados. Los jugadores, como la criatura Gorm, navegan un vasto ecosistema alienígena. La jugabilidad se centra en la exploración no lineal, la recolección estratégica de objetos y power-ups, y la resolución de acertijos, mientras se enfrentan a una diversa fauna hostil. La sensación de descubrimiento y la libertad para trazar nuestro propio camino eran sus mayores atractivos.Aunque el Acorn Archimedes fue una plataforma de nicho, Gorm destacó como una joya técnica y un ambicioso ejemplo de diseño de niveles. Representa un pináculo del desarrollo de juegos en este sistema, demostrando las capacidades gráficas del Archimedes con sus detallados sprites y un suave desplazamiento de paralaje. Para los entusiastas, Gorm es una pieza de la historia interactiva que encapsula la creatividad de los desarrolladores de la era de los 16/32 bits.",
+  "aiHints": "¿Sabías que Gorm ocultaba algunos secretos muy útiles para los exploradores más audaces?- ¡Activa el modo de trucos! Durante la pantalla de título, mantén presionada la tecla 'S' y luego presiona 'M'. Esto te permitirá saltar niveles o incluso volverte invulnerable.- El mundo de Gorm es enorme. No tengas miedo de retroceder y explorar áreas ya visitadas con tus nuevas habilidades. ¡Siempre hay algo que podrías haber pasado por alto!- El juego fue desarrollado por The Fourth Dimension, conocidos por su maestría en exprimir el hardware del Acorn Archimedes.",
+  "tiene_review": false
 }

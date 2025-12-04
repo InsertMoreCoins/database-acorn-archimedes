@@ -1,59 +1,13 @@
 {
   "nombre": "Pen Down",
-  "nombre_original": "Pen Down (Europe)",
+  "nombre_original": "Pen Down",
   "sistema": "Acorn Archimedes",
-  "year": 1992,
-  "genres": [],
+  "year": "1992",
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Logotron",
-  "developer": "Logotron",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "pen-down",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Pen Down, una joya de 1992 para el Acorn Archimedes, nos invita a un viaje nostálgico a la era de los puzles de lógica pura. Su mecánica central es engañosamente simple pero profundamente adictiva: el jugador debe guiar un 'bolígrafo' virtual a través de intrincados laberintos y cuadrículas, llenando cada espacio sin superponerse ni quedar atrapado. Cada nivel presenta un nuevo desafío espacial, exigiendo precisión y previsión para trazar el camino perfecto y completar el dibujo, una danza entre la paciencia y la estrategia.Este título representa un testimonio fascinante de la creatividad en el desarrollo de juegos durante los primeros años 90 en plataformas menos convencionales. 'Pen Down' dejó una huella en los entusiastas del Archimedes por su ingenioso diseño de niveles y su capacidad para ofrecer horas de entretenimiento cerebral. Es un ejemplo palpable de cómo la innovación puede florecer incluso con recursos limitados, ofreciendo una experiencia de juego atemporal que aún hoy conserva su encanto y desafío original.",
+  "aiHints": "¿Sabías que... Pen Down es un maestro del engaño? Aunque parece sencillo, sus niveles más avanzados ocultan trampas sutiles que solo los jugadores más pacientes y metódicos pueden superar.- Un pro-tip esencial: siempre planifica tus movimientos con varios pasos de antelación. No se trata solo de llenar, sino de cómo llegarás al final sin bloquearte.- Este juego fue elogiado por su interfaz limpia, que permitía una inmersión total en los puzles sin distracciones. ¡Una lección de diseño minimalista!",
+  "tiene_review": false
 }

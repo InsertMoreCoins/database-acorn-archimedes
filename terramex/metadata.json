@@ -1,61 +1,13 @@
 {
   "nombre": "Terramex",
-  "nombre_original": "Terramex (Europe)",
+  "nombre_original": "Terramex",
   "sistema": "Acorn Archimedes",
-  "year": 1987,
+  "year": "1987",
   "genres": [
     "Adventure"
   ],
   "publisher": "Krisalis Software",
-  "developer": "Krisalis Software",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "terramex",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Terramex, una joya de 1987 para el Acorn Archimedes, nos sumerge en un laberinto subterráneo como el comandante de un tanque futurista. La mecánica central gira en torno a la exploración meticulosa de complejos túneles, la recolección estratégica de vainas de energía para alimentar el sistema de defensa planetario y el combate constante contra una variada hueste de enemigos robóticos. Su desplazamiento suave y su acción trepidante definieron una experiencia de juego inmersiva que desafiaba tanto la destreza del jugador como su capacidad de orientación. Este título no solo fue un hito técnico para la incipiente plataforma Archimedes, demostrando la potencia gráfica y sonora de la máquina, sino que también se consolidó como uno de los lanzamientos más memorables de Superior Software. Su legado reside en haber establecido un estándar temprano para los juegos de acción y exploración en los sistemas Acorn, siendo recordado con cariño por aquellos que vivieron la era dorada de los ordenadores británicos.",
+  "aiHints": "¿Sabías que...- Terramex fue uno de los primeros juegos en explotar el avanzado hardware del Acorn Archimedes, mostrando su capacidad para gráficos detallados y un desplazamiento de pantalla extremadamente fluido, algo revolucionario para 1987.- Para los jugadores expertos: ¡la clave está en la gestión de energía! No solo recolectes, sino prioriza la recarga de tu escudo y el uso estratégico de tus armas para sobrevivir en los niveles más profundos.- ¡Un pequeño truco! En ciertas zonas, puedes \"rebotar\" en las paredes para acceder a áreas ocultas con más vainas de energía.",
+  "tiene_review": false
 }

@@ -1,59 +1,13 @@
 {
   "nombre": "Gyrinus II - Son of Gyrinus",
-  "nombre_original": "Gyrinus II - Son of Gyrinus (Europe) (Disk 2)",
+  "nombre_original": "Gyrinus II - Son of Gyrinus",
   "sistema": "Acorn Archimedes",
   "year": null,
-  "genres": [],
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Cooper, Tom",
-  "developer": "Cooper, Tom",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "gyrinus-ii-son-of-gyrinus",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Gyrinus II - Son of Gyrinus, una joya del Acorn Archimedes, te sumerge en un frenético shooter de desplazamiento vertical. Como piloto de la nave Gyrinus, tu misión es destruir oleadas de enemigos alienígenas, esquivar sus ataques y recolectar potenciadores. La jugabilidad es exigente, con acción incesante que demanda reflejos agudos y estrategia precisa para superar patrones de ataque complejos y jefes desafiantes. Un ciclo adictivo de destrucción, mejora y supervivencia espacial.Este título es un hito de la escena de desarrollo en el Acorn Archimedes, demostrando la capacidad de su procesador ARM para gráficos y sonido avanzados en su época. Gyrinus II se erige como un digno representante de los shoot 'em ups clásicos, encapsulando una era dorada de la informática doméstica. Su legado perdura, evocando nostalgia como un referente técnico y de diversión en la historia de los videojuegos británicos de principios de los 90.",
+  "aiHints": "¿Sabías que Gyrinus II fue aclamado por su desplazamiento vertical increíblemente fluido? Esto era una proeza técnica en el Acorn Archimedes, demostrando la potencia del procesador ARM. Para los pilotos experimentados, un consejo: dominar los patrones de ataque de los jefes finales es clave. Cada uno tiene un punto débil específico que solo se revela tras observar cuidadosamente sus movimientos. ¡No subestimes el poder de un disparo bien colocado después de una evasión perfecta!",
+  "tiene_review": false
 }

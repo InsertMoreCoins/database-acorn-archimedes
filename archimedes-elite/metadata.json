@@ -1,61 +1,13 @@
 {
   "nombre": "Archimedes Elite",
-  "nombre_original": "Archimedes Elite (Europe)",
+  "nombre_original": "Archimedes Elite",
   "sistema": "Acorn Archimedes",
-  "year": 1991,
+  "year": "1991",
   "genres": [
     "Simulation"
   ],
   "publisher": "Hybrid Technology",
-  "developer": "Hybrid Technology",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "archimedes-elite",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Archimedes Elite, lanzado en 1991 para el impresionante Acorn Archimedes, representa una evolución magistral del legendario simulador espacial. Los jugadores se sumergían en un universo vasto y abierto, combinando el comercio intergaláctico, el combate espacial y la exploración. La mecánica principal giraba en torno a la compraventa de mercancías, la gestión de recursos como el combustible y la munición, y las emocionantes batallas con naves piratas. Todo ello presentado con una fluidez y detalle gráfico que aprovechaban al máximo la potencia de la máquina.Esta versión no solo mejoró los icónicos gráficos de alambre del original con una suavidad sin precedentes, sino que también refinó la experiencia auditiva, ofreciendo una inmersión superior. Archimedes Elite se erige como un testimonio del ingenio de su época, consolidándose como un título de referencia en el Acorn Archimedes y demostrando cómo un clásico podía reinventarse y brillar con nueva luz en una plataforma avanzada. Su legado perdura como un hito en la historia de los simuladores espaciales.",
+  "aiHints": "- ¿Sabías que una de las mayores proezas técnicas de Archimedes Elite fue su capacidad para dibujar gráficos 3D de alambre a una velocidad y suavidad sin precedentes para la época? Esto fue gracias a la arquitectura avanzada del Acorn Archimedes.- Para una ventaja temprana, busca rutas comerciales con bienes de lujo como 'ordenadores' o 'armas' entre sistemas prósperos.- ¡Y no olvides invertir en un 'ordenador de acoplamiento' para evitar frustraciones al aterrizar!",
+  "tiene_review": false
 }

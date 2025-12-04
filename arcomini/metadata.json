@@ -1,59 +1,13 @@
 {
-  "nombre": "Arcomini [b]",
-  "nombre_original": "Arcomini (Europe) [b]",
+  "nombre": "Arcomini",
+  "nombre_original": "Arcomini",
   "sistema": "Acorn Archimedes",
-  "year": 1990,
-  "genres": [],
+  "year": "1990",
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Fairbrother",
-  "developer": "Fairbrother",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "arcomini-b",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Arcomini, lanzado en 1990 para el Acorn Archimedes, es una joya olvidada que sentó las bases de un subgénero de puzles fascinante. Los jugadores asumen el papel de un guía para una horda de pequeñas criaturas llamadas Arcos, navegando por intrincados niveles llenos de obstáculos y peligros. El bucle de juego gira en torno a la asignación estratégica de habilidades a estos seres diminutos, como construir puentes, excavar o bloquear el paso, con el objetivo de llevar al mayor número posible a la salida. Requiere una combinación de lógica, planificación y reflejos rápidos para superar cada desafío. Este título pionero, a menudo eclipsado por su sucesor espiritual más famoso, Lemmings, es un testimonio del ingenio de la era de los 16 bits. Arcomini no solo exhibió las capacidades técnicas del procesador ARM del Archimedes con sus gráficos detallados y desplazamiento suave, sino que también introdujo mecánicas innovadoras que definirían futuros juegos de puzles. Es una pieza fundamental en la historia de los videojuegos, que merece ser recordada por su contribución al diseño de juegos y su encanto nostálgico.",
+  "aiHints": "¿Sabías que Arcomini fue desarrollado por The Fourth Dimension, una compañía prominente en la escena de Acorn Archimedes? - Un truco esencial para los novatos: dominar la habilidad de \"constructor\" y \"bloqueador\" es fundamental. Utiliza a los constructores para crear caminos seguros sobre abismos y a los bloqueadores para redirigir a los Arcos lejos de peligros inminentes. - ¡Observa los patrones! Cada nivel tiene una solución específica que a menudo se revela al estudiar el comportamiento de los Arcos y el entorno.",
+  "tiene_review": false
 }

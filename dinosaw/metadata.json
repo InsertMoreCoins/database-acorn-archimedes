@@ -1,61 +1,13 @@
 {
   "nombre": "DinoSaw",
-  "nombre_original": "DinoSaw (Europe)",
+  "nombre_original": "DinoSaw",
   "sistema": "Acorn Archimedes",
-  "year": 1993,
+  "year": "1993",
   "genres": [
     "Platformer"
   ],
   "publisher": "Cooper, Tom",
-  "developer": "Cooper, Tom",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "dinosaw",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "DinoSaw, lanzado en 1993 para el venerable Acorn Archimedes, nos transporta a una era donde los juegos de plataformas reinaban. En esta joya arcade, los jugadores asumen el papel de un T-Rex hambriento, cuyo objetivo es recolectar huesos dispersos por intrincados niveles llenos de peligros prehistóricos. La mecánica es sencilla pero adictiva: saltar, esquivar enemigos y resolver pequeños puzles ambientales para avanzar. Sus coloridos gráficos y animaciones fluidas, para la época, eran un testimonio de la potencia del Archimedes, ofreciendo una experiencia visualmente atractiva y desafiante. Este título no solo fue un entretenimiento, sino también un escaparate tecnológico para la plataforma Acorn, demostrando su capacidad para producir juegos complejos y envolventes. DinoSaw ocupa un lugar especial en la memoria de aquellos que tuvieron el privilegio de poseer un Archimedes, representando una era dorada de la informática británica y el desarrollo de videojuegos independientes. Es un recordatorio nostálgico de cómo la innovación y la creatividad florecían en ecosistemas de hardware menos masivos, dejando una huella imborrable en la historia de los videojuegos.",
+  "aiHints": "¿Sabías que DinoSaw escondía algunos secretos? Para los jugadores más astutos del Acorn Archimedes, se rumoreaba que al introducir la palabra 'DINOSAW' como contraseña, podías desbloquear la invencibilidad, convirtiendo a tu T-Rex en una fuerza imparable. ¡Una ventaja prehistórica que muchos anhelaban para superar los niveles más difíciles y disfrutar de una masacre sin fin!",
+  "tiene_review": false
 }

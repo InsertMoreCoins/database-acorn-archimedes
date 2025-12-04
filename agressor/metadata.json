@@ -1,61 +1,13 @@
 {
   "nombre": "Agressor",
-  "nombre_original": "Agressor (Europe)",
+  "nombre_original": "Agressor",
   "sistema": "Acorn Archimedes",
-  "year": 1992,
+  "year": "1992",
   "genres": [
     "Shooter"
   ],
   "publisher": "Atomic Software",
-  "developer": "Atomic Software",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "agressor",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Agressor, lanzado en 1992 para el venerado Acorn Archimedes, es un testimonio vibrante de la era dorada de los 'shoot 'em ups' de desplazamiento vertical. Los jugadores se sumergen en intensas batallas espaciales, pilotando una nave futurista a través de hordas de enemigos implacables. La jugabilidad es frenética y exige reflejos precisos, con un ciclo centrado en la destrucción de oleadas, la esquiva de proyectiles y la recolección estratégica de mejoras de armamento. Su dificultad elevada era una marca de identidad, ofreciendo un desafío gratificante a los pilotos más hábiles.Este título no solo fue un ejercicio de destreza, sino también una demostración técnica del Acorn Archimedes, aprovechando su capacidad gráfica y sonora para crear una experiencia inmersiva. Aunque quizás no alcanzó la fama global de contemporáneos en otras plataformas, Agressor ocupa un lugar especial en el corazón de los entusiastas del Archimedes. Es recordado como una joya que ejemplificó el potencial de la máquina y contribuyó a la rica herencia de los videojuegos británicos de principios de los 90, una pieza fascinante de la historia del software.",
+  "aiHints": "¿Sabías que Agressor escondía un truco de desarrollador? Para los más astutos, se podía activar un modo de trucos o selector de nivel presionando una combinación específica de teclas durante la pantalla de título o la carga inicial. Esto permitía a los jugadores acceder a vidas infinitas o saltar a sus fases favoritas, facilitando la exploración de cada rincón del juego sin la presión constante de la dificultad extrema. ¡Una pequeña ventaja para dominar los cielos del Acorn Archimedes!",
+  "tiene_review": false
 }

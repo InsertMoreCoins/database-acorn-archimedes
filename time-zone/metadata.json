@@ -1,59 +1,13 @@
 {
   "nombre": "Time Zone",
-  "nombre_original": "Time Zone (Europe)",
+  "nombre_original": "Time Zone",
   "sistema": "Acorn Archimedes",
   "year": null,
-  "genres": [],
+  "genres": [
+    "Unknown"
+  ],
   "publisher": "Cobra",
-  "developer": "Cobra",
-  "banners_candidatos": [
-    "banner.webp"
-  ],
-  "banner_local": "banner.webp",
-  "screenshots_local": [
-    "screenshot_1.webp",
-    "screenshot_2.webp",
-    "screenshot_3.webp",
-    "screenshot_4.webp",
-    "screenshot_5.webp",
-    "screenshot_6.webp",
-    "screenshot_7.webp",
-    "screenshot_8.webp",
-    "screenshot_9.webp",
-    "screenshot_10.webp",
-    "screenshot_11.webp",
-    "screenshot_12.webp",
-    "screenshot_13.webp",
-    "screenshot_14.webp",
-    "screenshot_15.webp",
-    "screenshot_16.webp",
-    "screenshot_17.webp",
-    "screenshot_18.webp",
-    "screenshot_19.webp",
-    "screenshot_20.webp",
-    "screenshot_21.webp",
-    "screenshot_22.webp",
-    "screenshot_23.webp",
-    "screenshot_24.webp",
-    "screenshot_25.webp",
-    "screenshot_26.webp",
-    "screenshot_27.webp",
-    "screenshot_28.webp",
-    "screenshot_29.webp",
-    "screenshot_30.webp",
-    "screenshot_31.webp",
-    "screenshot_32.webp",
-    "screenshot_33.webp",
-    "screenshot_34.webp",
-    "screenshot_35.webp"
-  ],
-  "screenshots_urls_descargadas": [],
-  "tiene_review": false,
-  "review_score": null,
-  "carpeta_slug": "time-zone",
-  "nombre_xml": "Acorn Archimedes",
-  "sistema_slug": "acorn-archimedes",
-  "fuentes_imagenes": [
-    "DUMMY_v0.07"
-  ]
+  "aiDescription": "Time Zone para Acorn Archimedes, una joya del género de aventura conversacional, sumerge al jugador en un intrincado viaje temporal. La jugabilidad se basa en la introducción de comandos de texto para interactuar con el entorno, resolver acertijos complejos y manipular objetos. La narrativa se despliega mientras el jugador explora diversas épocas, desde la prehistoria hasta el futuro, enfrentándose a paradojas y desafíos lógicos que exigen meticulosa atención y aguda deducción. Lanzado cuando las aventuras gráficas ganaban terreno, Time Zone se mantuvo fiel a la esencia conversacional, ofreciendo una profundidad narrativa y libertad de exploración únicas para la plataforma Archimedes. Representa un testimonio de la era dorada de los juegos de texto, donde la imaginación era el motor gráfico. Su legado reside en ser un desafío intelectual y una pieza clave en la historia del software para Acorn, apreciado por quienes valoran la pureza de la narrativa y el ingenio de sus rompecabezas.",
+  "aiHints": "¿Sabías que Time Zone es famoso por su dificultad y su extenso mundo? Para dominarlo, un consejo profesional es dibujar un mapa detallado a medida que exploras las diferentes eras. Esto te ayudará a organizar los eventos y objetos que necesitas en cada línea temporal. Además, su avanzado parser de texto para la época permitía una interacción sorprendentemente fluida, pero a menudo los jugadores olvidaban probar sinónimos o frases alternativas. ¡La clave está en la experimentación!",
+  "tiene_review": false
 }
